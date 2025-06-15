@@ -1,0 +1,4167 @@
+[
+    {
+        "number": 2,
+        "question": "Gaya menggantung dalam lompat jauh disebut juga \\....",
+        "choices": [
+            {
+                "letter": "a",
+                "text": "tuck style"
+            },
+            {
+                "letter": "b",
+                "text": "walking in the air"
+            },
+            {
+                "letter": "c",
+                "text": "hang style"
+            },
+            {
+                "letter": "d",
+                "text": "O'Brien"
+            },
+            {
+                "letter": "e",
+                "text": "ortodoks"
+            }
+        ],
+        "correct_answer": "c"
+    },
+    {
+        "number": 3,
+        "question": "Tahap perubahan gerakan dari horizontal menjadi gerakan vertikal\nyang dilakukan secara cepat dalam lompat jauh disebut \\....",
+        "choices": [
+            {
+                "letter": "a",
+                "text": "awalan"
+            },
+            {
+                "letter": "b",
+                "text": "tolakan"
+            },
+            {
+                "letter": "c",
+                "text": "melayang"
+            }
+        ],
+        "correct_answer": "b"
+    },
+    {
+        "number": 4,
+        "question": "Pendaratan dilakukan dengan bagian tubuh yang menyentuh tanah\nterlebih dahulu adalah \\....",
+        "choices": [
+            {
+                "letter": "a",
+                "text": "pantat"
+            },
+            {
+                "letter": "b",
+                "text": "tangan"
+            },
+            {
+                "letter": "c",
+                "text": "tumit kaki"
+            },
+            {
+                "letter": "d",
+                "text": "punggung"
+            },
+            {
+                "letter": "e",
+                "text": "jari tangan"
+            }
+        ],
+        "correct_answer": "c"
+    },
+    {
+        "number": 5,
+        "question": "Start jongkok yang dilakukan dengan cara lutut kaki belakang sejajar\ndengan ujung kaki depan disebut \\....",
+        "choices": [
+            {
+                "letter": "a",
+                "text": "bunch start"
+            },
+            {
+                "letter": "b",
+                "text": "medium start"
+            },
+            {
+                "letter": "c",
+                "text": "long start"
+            },
+            {
+                "letter": "d",
+                "text": "crouching start"
+            },
+            {
+                "letter": "e",
+                "text": "standing start"
+            }
+        ],
+        "correct_answer": "d"
+    },
+    {
+        "number": 6,
+        "question": "Posisi tubuh sedikit dicondangkan ke depan, pinggang diangkat lebih\ntinggi dari bahu dan bahu agak maju ke depan dari dua tangan merupakan\ngerakan start jongkok tahap abaaba \\....",
+        "choices": [
+            {
+                "letter": "a",
+                "text": "bersedia"
+            },
+            {
+                "letter": "b",
+                "text": "siap"
+            },
+            {
+                "letter": "c",
+                "text": "yak"
+            },
+            {
+                "letter": "d",
+                "text": "lari"
+            },
+            {
+                "letter": "e",
+                "text": "maju"
+            }
+        ],
+        "correct_answer": "b"
+    },
+    {
+        "number": 7,
+        "question": "Teknik memasuki garis finis yang dilakukan dengan dada dicondangkan\nke depan dengan kedua tangan diayunkan ke belakang. Teknik ini disebut\n\\....",
+        "choices": [
+            {
+                "letter": "a",
+                "text": "hang style"
+            },
+            {
+                "letter": "b",
+                "text": "tuck style"
+            },
+            {
+                "letter": "c",
+                "text": "O'Brien"
+            },
+            {
+                "letter": "d",
+                "text": "the shrug"
+            },
+            {
+                "letter": "e",
+                "text": "the lunge"
+            }
+        ],
+        "correct_answer": "c"
+    },
+    {
+        "number": 8,
+        "question": "Lari dengan mengerahkan kecepatan maksimal sepanjang jarak yang\nditempuh disebut \\....",
+        "choices": [
+            {
+                "letter": "a",
+                "text": "lari"
+            },
+            {
+                "letter": "b",
+                "text": "lari jarak jauh"
+            },
+            {
+                "letter": "c",
+                "text": "lari jarak pendek"
+            },
+            {
+                "letter": "d",
+                "text": "lari jarak menengah"
+            },
+            {
+                "letter": "e",
+                "text": "jalan"
+            }
+        ],
+        "correct_answer": "c"
+    },
+    {
+        "number": 9,
+        "question": "Berikut ini yang merupakan gaya dalam tolak peluru adalah \\....",
+        "choices": [
+            {
+                "letter": "a",
+                "text": "ortodoks, O'Brien, dan tuck style"
+            },
+            {
+                "letter": "b",
+                "text": "tuck style, hang style, dan O'Brien"
+            },
+            {
+                "letter": "c",
+                "text": "Baryshnikov, O'Brien, dan hang style"
+            },
+            {
+                "letter": "d",
+                "text": "ortodoks, O'Brien, dan Baryshnikov"
+            },
+            {
+                "letter": "e",
+                "text": "ortodoks, hang style, dan Baryshnikov"
+            }
+        ],
+        "correct_answer": "d"
+    },
+    {
+        "number": 10,
+        "question": "Setelah peluru dipegang dengan benar, peluru diletakkan di \\....",
+        "choices": [
+            {
+                "letter": "a",
+                "text": "dada"
+            },
+            {
+                "letter": "b",
+                "text": "perut"
+            },
+            {
+                "letter": "c",
+                "text": "bahu"
+            },
+            {
+                "letter": "d",
+                "text": "perut"
+            },
+            {
+                "letter": "e",
+                "text": "pinggang"
+            }
+        ],
+        "correct_answer": "c"
+    },
+    {
+        "number": 11,
+        "question": "Gaya dalam olahraga tolak peluru yang dilakukan dengan membelakangi\ndaerah tolakan disebut \\....",
+        "choices": [
+            {
+                "letter": "a",
+                "text": "gaya ortodoks"
+            },
+            {
+                "letter": "b",
+                "text": "gaya O'Brien"
+            },
+            {
+                "letter": "c",
+                "text": "gaya Baryshnikov"
+            },
+            {
+                "letter": "d",
+                "text": "gaya jongkok"
+            },
+            {
+                "letter": "e",
+                "text": "gaya menggantung"
+            }
+        ],
+        "correct_answer": "a"
+    },
+    {
+        "number": 12,
+        "question": "Dalam olahraga tolak peluru, peluru yang digunakan berbentuk bulat\ndengan berat 47 kg yang terbuat dari \\....",
+        "choices": [
+            {
+                "letter": "a",
+                "text": "emas"
+            },
+            {
+                "letter": "b",
+                "text": "karet"
+            },
+            {
+                "letter": "c",
+                "text": "plastik"
+            },
+            {
+                "letter": "d",
+                "text": "besi"
+            },
+            {
+                "letter": "e",
+                "text": "perak"
+            }
+        ],
+        "correct_answer": "d"
+    },
+    {
+        "number": 13,
+        "question": "Berikut ini yang merupakan nomor lari jarak pendek adalah \\....",
+        "choices": [
+            {
+                "letter": "a",
+                "text": "400 meter"
+            },
+            {
+                "letter": "b",
+                "text": "800 meter"
+            },
+            {
+                "letter": "c",
+                "text": "1500 meter"
+            },
+            {
+                "letter": "d",
+                "text": "3000 meter"
+            },
+            {
+                "letter": "e",
+                "text": "5000 meter"
+            }
+        ],
+        "correct_answer": "a"
+    },
+    {
+        "number": 14,
+        "question": "Lomba lari jarak pendek menggunakan start \\....",
+        "choices": [
+            {
+                "letter": "a",
+                "text": "telungkup"
+            },
+            {
+                "letter": "b",
+                "text": "jongkok"
+            },
+            {
+                "letter": "c",
+                "text": "berdiri"
+            },
+            {
+                "letter": "d",
+                "text": "melayang"
+            },
+            {
+                "letter": "e",
+                "text": "terlentang"
+            }
+        ],
+        "correct_answer": "b"
+    },
+    {
+        "number": 15,
+        "question": "Pada saat melakukan start jongkok pada lari sprint, jarijari kedua\ntangan diletakkan di \\....",
+        "choices": [
+            {
+                "letter": "a",
+                "text": "belakang garis start"
+            },
+            {
+                "letter": "b",
+                "text": "depan garis start"
+            },
+            {
+                "letter": "c",
+                "text": "samping garis start"
+            },
+            {
+                "letter": "d",
+                "text": "atas garis start"
+            },
+            {
+                "letter": "e",
+                "text": "pas garis start"
+            }
+        ],
+        "correct_answer": "a"
+    },
+    {
+        "number": 16,
+        "question": "Pada saat pelari akan bersiap menempatkan kedua kakinya menyentuh\nblok yang sudah dipersiapkan di depan dan belakang, posisi lutut kaki\nbelakang diletakkan di tanah sejajar dengan kaki kiri dan terpisah\nselebar bahu adalah ketika starter memberikan \\....",
+        "choices": [
+            {
+                "letter": "a",
+                "text": "abaaba siap"
+            },
+            {
+                "letter": "b",
+                "text": "abaaba bersedia"
+            },
+            {
+                "letter": "c",
+                "text": "abaaba yaak"
+            },
+            {
+                "letter": "d",
+                "text": "bunyi pluit"
+            },
+            {
+                "letter": "e",
+                "text": "on your mark"
+            }
+        ],
+        "correct_answer": "b"
+    },
+    {
+        "number": 17,
+        "question": "Halhal yang dianggap tidak sah atau diskualifikasi pada saat\nperlombaan lari jarak pendek, kecuali \\....",
+        "choices": [
+            {
+                "letter": "a",
+                "text": "tiga kali melakukan kesalahan saat start"
+            },
+            {
+                "letter": "b",
+                "text": "keluar dari ban lintasan"
+            },
+            {
+                "letter": "c",
+                "text": "berbuat curang"
+            },
+            {
+                "letter": "d",
+                "text": "melewati lintasan lawan"
+            },
+            {
+                "letter": "e",
+                "text": "berlari secepat mungkin sampai melewati garis finis"
+            }
+        ],
+        "correct_answer": "e"
+    },
+    {
+        "number": 18,
+        "question": "Perhatikan gambar berikut!\n<img src=\"./img/gambar1.png\" alt=\"Image for question\">\nGambar di atas menunjukkan gerakan \\....",
+        "choices": [
+            {
+                "letter": "a",
+                "text": "long start"
+            },
+            {
+                "letter": "b",
+                "text": "medium start"
+            },
+            {
+                "letter": "c",
+                "text": "short start"
+            },
+            {
+                "letter": "d",
+                "text": "bunch start"
+            },
+            {
+                "letter": "e",
+                "text": "start right"
+            }
+        ],
+        "correct_answer": "c"
+    },
+    {
+        "number": 19,
+        "question": "Berikut ini manfaat dari lari jarak pendek, kecuali \\....",
+        "choices": [
+            {
+                "letter": "a",
+                "text": "memperlambat sirkulasi darah"
+            },
+            {
+                "letter": "b",
+                "text": "membakar lemak"
+            },
+            {
+                "letter": "c",
+                "text": "perkembangan otot yang maksimal"
+            },
+            {
+                "letter": "d",
+                "text": "tubuh menjadi lebih bugar"
+            },
+            {
+                "letter": "e",
+                "text": "memaksimalkan kemampuan otot"
+            }
+        ],
+        "correct_answer": "a"
+    },
+    {
+        "number": 20,
+        "question": "Saat berlari terdapat dua tahap yang dapat menghasilkan teknik\nberlari dengan cepat. Tahap yang dimaksud adalah \\....",
+        "choices": [
+            {
+                "letter": "a",
+                "text": "fase topang dan fase melayang"
+            },
+            {
+                "letter": "b",
+                "text": "fase on dan fase case"
+            },
+            {
+                "letter": "c",
+                "text": "fase dorong dan fase terbang"
+            },
+            {
+                "letter": "d",
+                "text": "fase cepat dan fase super"
+            },
+            {
+                "letter": "e",
+                "text": "fase loncat dan fase dorong"
+            }
+        ],
+        "correct_answer": "a"
+    },
+    {
+        "number": 21,
+        "question": "Semua perlombaan lari di mana peserta berlari dengan kecepatan\npenuh/maksimal sepanjang jarak yang harus ditempuh atau sampai jarak\nyang telah ditentukan \\....",
+        "choices": [
+            {
+                "letter": "a",
+                "text": "lari sprint"
+            },
+            {
+                "letter": "b",
+                "text": "lari menengah"
+            },
+            {
+                "letter": "c",
+                "text": "lari jauh"
+            },
+            {
+                "letter": "d",
+                "text": "lari gawang"
+            },
+            {
+                "letter": "e",
+                "text": "joging"
+            }
+        ],
+        "correct_answer": "a"
+    },
+    {
+        "number": 22,
+        "question": "Di antara rangkaian gerakan lompat jauh adalah \\....",
+        "choices": [
+            {
+                "letter": "a",
+                "text": "berlari secepatnya, menolak, dan mendarat"
+            },
+            {
+                "letter": "b",
+                "text": "berlari secepatnya, mendarat, menolak, dan melayang"
+            },
+            {
+                "letter": "c",
+                "text": "berlari secepatnya, menolak, lari, dan melayang"
+            },
+            {
+                "letter": "d",
+                "text": "berlari secepatnya, menolak, melayang di udara, dan mendarat"
+            },
+            {
+                "letter": "e",
+                "text": "berlari secepatnya dan mendarat"
+            }
+        ],
+        "correct_answer": "d"
+    },
+    {
+        "number": 23,
+        "question": "Gerakan yang ada pada lompat jauh merupakan perpaduan antara \\....",
+        "choices": [
+            {
+                "letter": "a",
+                "text": "kecepatan dan kekuatan"
+            },
+            {
+                "letter": "b",
+                "text": "konsentrasi dan keseimbangan"
+            },
+            {
+                "letter": "c",
+                "text": "ketentuan dan kelincahan"
+            },
+            {
+                "letter": "d",
+                "text": "daya tahan dan ketepatan"
+            },
+            {
+                "letter": "e",
+                "text": "keterampilan dan daya juang"
+            }
+        ],
+        "correct_answer": "a"
+    },
+    {
+        "number": 24,
+        "question": "Halhal yang perlu dihindari dalam lompat jauh adalah \\....",
+        "choices": [
+            {
+                "letter": "a",
+                "text": "memperpendek atau memperpanjang langkah terakhir sebelum bertolak"
+            },
+            {
+                "letter": "b",
+                "text": "menguasai gerak langkah dan ayunan"
+            },
+            {
+                "letter": "c",
+                "text": "mencapai jangkauan gerak yang baik"
+            },
+            {
+                "letter": "d",
+                "text": "memelihara kecepatan hingga ketika menolak"
+            },
+            {
+                "letter": "e",
+                "text": "mencapai jangkauan gerak yang benar"
+            }
+        ],
+        "correct_answer": "a"
+    },
+    {
+        "number": 25,
+        "question": "Suatu kegiatan gerakan yang dilakukan di dalam lompatan untuk\nmencapai lompatan yang sejauhjauhnya, disebut dengan \\....",
+        "choices": [
+            {
+                "letter": "a",
+                "text": "lompat jauh"
+            },
+            {
+                "letter": "b",
+                "text": "lompat jangkit"
+            },
+            {
+                "letter": "c",
+                "text": "lompat tinggi"
+            },
+            {
+                "letter": "d",
+                "text": "lompat harimau"
+            },
+            {
+                "letter": "e",
+                "text": "lompat tiga"
+            }
+        ],
+        "correct_answer": "a"
+    },
+    {
+        "number": 26,
+        "question": "Tolakan merupakan tahap perubahan atau perpindahan gerakan dari\ngerakan \\... menjadi gerakan \\... yang dilakukan secara cepat.",
+        "choices": [
+            {
+                "letter": "a",
+                "text": "horizontal, vertikal"
+            },
+            {
+                "letter": "b",
+                "text": "vertikal, horizontal"
+            },
+            {
+                "letter": "c",
+                "text": "maju, mundur"
+            },
+            {
+                "letter": "d",
+                "text": "horizontal, ekstra"
+            },
+            {
+                "letter": "e",
+                "text": "vertikal, lurus"
+            }
+        ],
+        "correct_answer": "b"
+    },
+    {
+        "number": 27,
+        "question": "Alat utama yang digunakan dalam olahraga tolak peluru adalah\npeluru. Peluru sendiri memiliki berbagai berat sesuai dengan kategorinya\nmasingmasing, berat peluru yang digunakan atlet putri adalah \\....",
+        "choices": [
+            {
+                "letter": "a",
+                "text": "7 kg"
+            },
+            {
+                "letter": "b",
+                "text": "6 kg"
+            },
+            {
+                "letter": "c",
+                "text": "5 kg"
+            },
+            {
+                "letter": "d",
+                "text": "4 kg"
+            },
+            {
+                "letter": "e",
+                "text": "3 kg"
+            }
+        ],
+        "correct_answer": ""
+    },
+    {
+        "number": 28,
+        "question": "Cara memegang peluru yang benar adalah \\....\n> a\\. peluru diletakkan di ujung jari",
+        "choices": [
+            {
+                "letter": "b",
+                "text": "peluru digenggam dengan semua jari, peluru diletakkan pada pangkal telapak tangan, jarijari merenggang memegang peluru -"
+            },
+            {
+                "letter": "c",
+                "text": "peluru diletakkan pada punggung telapak tangan"
+            },
+            {
+                "letter": "d",
+                "text": "peluru diletakkan di pergelangan tangan dan dijepit"
+            }
+        ],
+        "correct_answer": ""
+    },
+    {
+        "number": 29,
+        "question": "Perhatikan gambar berikut!\n<img src=\"./img/gambar2.png\" alt=\"Image for question\">\nGambar di atas adalah gerakan tolak peluru dengan gaya \\....",
+        "choices": [
+            {
+                "letter": "a",
+                "text": "membelakangi"
+            },
+            {
+                "letter": "b",
+                "text": "menyamping"
+            },
+            {
+                "letter": "c",
+                "text": "menyamping"
+            },
+            {
+                "letter": "d",
+                "text": "mengayun"
+            },
+            {
+                "letter": "e",
+                "text": "melambai"
+            }
+        ],
+        "correct_answer": "b"
+    },
+    {
+        "number": 30,
+        "question": "Badan dibungkukkan dan angkat kaki kiri ke atas membentuk sikap\npesawat udara. Selanjutnya kaki kanan dibengkokkan dan badan membungkuk.\nKaki kanan diluruskan dan bersamaan dengan kaki kanan bergeser cepat ke\nbelakang dan badan diputar setengah lingkaran agar menghadap ke arah\ntolakan dan disusul dengan menolak peluru ke depan. Keterangan tersebut\nmerupakan teknik tolak peluru gaya \\....",
+        "choices": [
+            {
+                "letter": "a",
+                "text": "ortodoks"
+            },
+            {
+                "letter": "b",
+                "text": "O\\'Brien"
+            },
+            {
+                "letter": "c",
+                "text": "jongkok"
+            },
+            {
+                "letter": "d",
+                "text": "berjalan di udara"
+            },
+            {
+                "letter": "e",
+                "text": "menggantung"
+            }
+        ],
+        "correct_answer": "a"
+    },
+    {
+        "number": 1,
+        "question": "Pendaratan dalam lompat jauh dilakukan dengan posisi \\....",
+        "choices": [
+            {
+                "letter": "a",
+                "text": "berdiri"
+            },
+            {
+                "letter": "b",
+                "text": "berbaring"
+            },
+            {
+                "letter": "c",
+                "text": "tengkurap"
+            },
+            {
+                "letter": "d",
+                "text": "jongkok"
+            },
+            {
+                "letter": "e",
+                "text": "duduk"
+            }
+        ],
+        "correct_answer": "d"
+    },
+    {
+        "number": 2,
+        "question": "Gaya dalam tolak peluru yang dilakukan dengan awalan menyamping dan\npeluru dilempar dengan satu tangan disebut \\....",
+        "choices": [
+            {
+                "letter": "a",
+                "text": "gaya O'Brien"
+            },
+            {
+                "letter": "b",
+                "text": "gaya Baryshnikov"
+            },
+            {
+                "letter": "c",
+                "text": "gaya jongkok"
+            },
+            {
+                "letter": "d",
+                "text": "gaya menggantung"
+            },
+            {
+                "letter": "e",
+                "text": "gaya ortodoks"
+            }
+        ],
+        "correct_answer": "a"
+    },
+    {
+        "number": 3,
+        "question": "Perhatikan gambar di bawah ini!\n<img src=\"./img/gambar3.png\" alt=\"Image for question\">\nPada gambar tersebut merupakan gerakan yang dilakukan saat sikap start\npada abaaba \\....",
+        "choices": [
+            {
+                "letter": "a",
+                "text": "yaa"
+            },
+            {
+                "letter": "b",
+                "text": "larī"
+            },
+            {
+                "letter": "c",
+                "text": "siap"
+            },
+            {
+                "letter": "d",
+                "text": "bersedia"
+            },
+            {
+                "letter": "e",
+                "text": "persiapan awal"
+            }
+        ],
+        "correct_answer": "c"
+    },
+    {
+        "number": 4,
+        "question": "Perhatikan gambar di bawah ini!\n<img src=\"./img/gambar4.png\" alt=\"Image for question\">\nPada gambar tersebut merupakan teknik dalam lari yaitu pada saat\nmelakukan gerakan \\....",
+        "choices": [
+            {
+                "letter": "a",
+                "text": "start"
+            },
+            {
+                "letter": "b",
+                "text": "persiapan"
+            },
+            {
+                "letter": "c",
+                "text": "lari sprint"
+            },
+            {
+                "letter": "d",
+                "text": "melayang"
+            },
+            {
+                "letter": "e",
+                "text": "finish"
+            }
+        ],
+        "correct_answer": "e"
+    },
+    {
+        "number": 5,
+        "question": "Ketika berlari, lakukanlah secara konstan dan tidak terlalu cepat,\nserta selalu mengatur pernapasan dan tenaga agar selalu terjaga sehingga\ntidak mudah lelah. Namun, ketika garis finis sudah mulai dekat, sekitar\n1 km hingga 500 meter lagi, maka \\....",
+        "choices": [
+            {
+                "letter": "a",
+                "text": "memperlambat kecepatan lari"
+            },
+            {
+                "letter": "b",
+                "text": "berhenti mendadak saat masuk finis"
+            },
+            {
+                "letter": "c",
+                "text": "pusatkan perhatian pada lawan yang terdekat"
+            },
+            {
+                "letter": "d",
+                "text": "menoleh pada lawan di sampingnya agar tidak tersalip"
+            },
+            {
+                "letter": "e",
+                "text": "kecepatan harus ditingkatkan dibandingkan dari sebelumnya"
+            }
+        ],
+        "correct_answer": "e"
+    },
+    {
+        "number": 1,
+        "question": "Posisi badan yang benar saat melakukan gerakan balingbaling adalah\n\\...",
+        "choices": [
+            {
+                "letter": "a",
+                "text": "menghadap arah gerakan"
+            },
+            {
+                "letter": "b",
+                "text": "menyamping arah gerakan"
+            },
+            {
+                "letter": "c",
+                "text": "membelakangi arah gerakan"
+            },
+            {
+                "letter": "d",
+                "text": "menyilang arah gerakan"
+            },
+            {
+                "letter": "e",
+                "text": "menghadap ke depan"
+            }
+        ],
+        "correct_answer": "b"
+    },
+    {
+        "number": 2,
+        "question": "Posisi awal kedua lengan yang benar saat melakukan gerakan\nbalingbaling adalah \\...",
+        "choices": [
+            {
+                "letter": "a",
+                "text": "lurus ke atas di samping telinga"
+            },
+            {
+                "letter": "b",
+                "text": "lurus ke depan sejajar dada"
+            },
+            {
+                "letter": "c",
+                "text": "lurus ke bawah di samping badan"
+            },
+            {
+                "letter": "d",
+                "text": "lurus ke samping sejajar bahu"
+            },
+            {
+                "letter": "e",
+                "text": "lurus ke depan di depan dada"
+            }
+        ],
+        "correct_answer": "a"
+    },
+    {
+        "number": 3,
+        "question": "Prinsip dasar gerakan lengan yang benar saat mendarat pada matras\nsaat melakukan gerakan balingbaling adalah \\...",
+        "choices": [
+            {
+                "letter": "a",
+                "text": "mendarat satu per satu posisi lengan lurus"
+            },
+            {
+                "letter": "b",
+                "text": "mendarat satu per satu posisi lengan disilang"
+            },
+            {
+                "letter": "c",
+                "text": "mendarat satu per satu posisi lengan ditekuk"
+            },
+            {
+                "letter": "d",
+                "text": "mendarat satu per satu posisi lengan diputar"
+            },
+            {
+                "letter": "e",
+                "text": "mendarat dua tangan posisi lengan ditekuk"
+            }
+        ],
+        "correct_answer": "a"
+    },
+    {
+        "number": 4,
+        "question": "Berikut ini yang termasuk prinsip dasar akhir gerakan balingbaling\nadalah \\...\n> a\\. berat badan dibawa ke belakang, kedua lutut direndahkan, kedua\n> tumit diputar, pandangan mengikuti arah gerakan kaki",
+        "choices": [
+            {
+                "letter": "b",
+                "text": "berat badan dibawa ke samping, kedua lutut diluruskan, kedua tumit diangkat dari tanah, pandangan ke arah bawah"
+            },
+            {
+                "letter": "c",
+                "text": "berat badan dibawa ke depan, kedua lutut disilang, kedua tumit diputar, pandangan ke atas"
+            },
+            {
+                "letter": "d",
+                "text": "berdiri menghadap ke depan, posisi kedua kaki terbuka selebar bahu, kedua lengan lurus di depan dada, pandangan ke arah depan -"
+            },
+            {
+                "letter": "e",
+                "text": "berdiri sikap menyamping arah gerakan, posisi kedua kaki terbuka selebar bahu, kedua lengan terentang serong atas di samping telinga"
+            }
+        ],
+        "correct_answer": ""
+    },
+    {
+        "number": 5,
+        "question": "Gerakan akhir sikap meroda adalah \\...",
+        "choices": [
+            {
+                "letter": "a",
+                "text": "sikap jongkok"
+            },
+            {
+                "letter": "b",
+                "text": "sikap berdiri menyamping"
+            },
+            {
+                "letter": "c",
+                "text": "sikap berdiri ke depan"
+            },
+            {
+                "letter": "d",
+                "text": "sikap duduk"
+            },
+            {
+                "letter": "e",
+                "text": "sikap terlentang"
+            }
+        ],
+        "correct_answer": "c"
+    },
+    {
+        "number": 6,
+        "question": "Latihan gerakan balingbaling dapat bermanfaat bagi kesehatan.\nBerikut ini manfaat yang didapatkan dari melakukan latihan balingbaling,\nkecuali \\...",
+        "choices": [
+            {
+                "letter": "a",
+                "text": "membuat tubuh menjadi mudah sakit"
+            },
+            {
+                "letter": "b",
+                "text": "menguatkan tulang"
+            },
+            {
+                "letter": "c",
+                "text": "meningkatkan kelenturan tubuh"
+            },
+            {
+                "letter": "d",
+                "text": "menjaga keseimbangan tubuh"
+            },
+            {
+                "letter": "e",
+                "text": "membantu membakar kalori dalam tubuh"
+            }
+        ],
+        "correct_answer": "a"
+    },
+    {
+        "number": 7,
+        "question": "Suatu gerakan senam lantai yang menyerupai gerakan roda yang sedang\nberputar disebut \\...",
+        "choices": [
+            {
+                "letter": "a",
+                "text": "lompat harimau"
+            },
+            {
+                "letter": "b",
+                "text": "handstand"
+            },
+            {
+                "letter": "c",
+                "text": "balingbaling"
+            },
+            {
+                "letter": "d",
+                "text": "guling depan"
+            },
+            {
+                "letter": "e",
+                "text": "kopkip"
+            }
+        ],
+        "correct_answer": "c"
+    },
+    {
+        "number": 8,
+        "question": "Gerakan yang dilakukan seperti balingbaling yang berputar tangan di\nbawah dan kaki di atas merupakan gerakan \\...",
+        "choices": [
+            {
+                "letter": "a",
+                "text": "balingbaling"
+            },
+            {
+                "letter": "b",
+                "text": "meroda"
+            },
+            {
+                "letter": "c",
+                "text": "guling lenting"
+            },
+            {
+                "letter": "d",
+                "text": "loncat harimau"
+            },
+            {
+                "letter": "e",
+                "text": "handspring"
+            }
+        ],
+        "correct_answer": "b"
+    },
+    {
+        "number": 9,
+        "question": "Di bawah ini yang bukan merupakan ciri gerakan meroda yaitu \\...",
+        "choices": [
+            {
+                "letter": "a",
+                "text": "ada fase tangan memegang kaki"
+            },
+            {
+                "letter": "b",
+                "text": "fase utama tangan bergerak bergantian"
+            },
+            {
+                "letter": "c",
+                "text": "tubuh berputar seperti roda"
+            },
+            {
+                "letter": "d",
+                "text": "kaki terbuka lebar saat berputar"
+            },
+            {
+                "letter": "e",
+                "text": "pandangan mengikuti arah gerakan"
+            }
+        ],
+        "correct_answer": "a"
+    },
+    {
+        "number": 10,
+        "question": "Perhatikan gambar berikut!\n<img src=\"./img/gambar5.png\" alt=\"Image for question\">\nGambar di atas adalah merupakan gerakan \\...",
+        "choices": [
+            {
+                "letter": "a",
+                "text": "meroda"
+            },
+            {
+                "letter": "b",
+                "text": "melambai"
+            },
+            {
+                "letter": "c",
+                "text": "meloncat"
+            },
+            {
+                "letter": "d",
+                "text": "menerkam"
+            },
+            {
+                "letter": "e",
+                "text": "menggelinding"
+            }
+        ],
+        "correct_answer": "a"
+    },
+    {
+        "number": 11,
+        "question": "Berikut ini merupakan sikap awal dalam gerakan guling depan kopkip,\nkecuali \\...",
+        "choices": [
+            {
+                "letter": "a",
+                "text": "berdiri tegak dengan kedua kaki rapat"
+            },
+            {
+                "letter": "b",
+                "text": "dengan melambungkan badan, kedua tangan diletakkan di lantai kirakira satu langkah dari kaki"
+            },
+            {
+                "letter": "c",
+                "text": "badan tetap melenting dan kedua lengan tetap terangkat lurus"
+            },
+            {
+                "letter": "d",
+                "text": "kepala ditekuk dan kaki diangkat hingga lurus ke depan"
+            },
+            {
+                "letter": "e",
+                "text": "letakkan tengkuk di antara kedua tangan"
+            }
+        ],
+        "correct_answer": "c"
+    },
+    {
+        "number": 12,
+        "question": "Gerakan yang dilakukan untuk memindahkan titik berat tubuh, suatu\ndaya harus dikerahkan pada tubuh dalam guling depan kopkip adalah \\...",
+        "choices": [
+            {
+                "letter": "a",
+                "text": "pendaratan"
+            },
+            {
+                "letter": "b",
+                "text": "tolakan"
+            },
+            {
+                "letter": "c",
+                "text": "awalan"
+            },
+            {
+                "letter": "d",
+                "text": "pelaksanaan"
+            },
+            {
+                "letter": "e",
+                "text": "sikap akhir"
+            }
+        ],
+        "correct_answer": "b"
+    },
+    {
+        "number": 13,
+        "question": "Agar semakin mahir melakukan gerakan kopkip dapat dilakukan latihan\ngerakan berupa gerakan lenting tengkuk. Gerakan lenting tengkuk disebut\njuga \\...",
+        "choices": [
+            {
+                "letter": "a",
+                "text": "cartwheel"
+            },
+            {
+                "letter": "b",
+                "text": "neck spring"
+            },
+            {
+                "letter": "c",
+                "text": "hang style"
+            },
+            {
+                "letter": "d",
+                "text": "tiger sprong"
+            },
+            {
+                "letter": "e",
+                "text": "head spring"
+            }
+        ],
+        "correct_answer": "b"
+    },
+    {
+        "number": 14,
+        "question": "Berikut ini merupakan sikap akhir dalam gerakan guling depan kopkip\nadalah \\...",
+        "choices": [
+            {
+                "letter": "a",
+                "text": "berdiri tegak"
+            },
+            {
+                "letter": "b",
+                "text": "letakkan tengkuk di antara kedua tangan"
+            },
+            {
+                "letter": "c",
+                "text": "kedua kaki dilecutkan ke depan lurus"
+            },
+            {
+                "letter": "d",
+                "text": "melambungkan badan, kedua tangan diletakkan di lantai"
+            },
+            {
+                "letter": "e",
+                "text": "kepala ditekuk dan kaki diangkat hingga lurus ke depan"
+            }
+        ],
+        "correct_answer": "a"
+    },
+    {
+        "number": 15,
+        "question": "Gerakan senam lantai yang dilakukan dengan cara melingkarkan tubuh\nmenuju depan dengan gerakan berawal dari tengkuk, punggung, pinggang,\nhingga panggul bagian belakang disebut \\...",
+        "choices": [
+            {
+                "letter": "a",
+                "text": "guling belakang"
+            },
+            {
+                "letter": "b",
+                "text": "guling lenting"
+            },
+            {
+                "letter": "c",
+                "text": "guling depan"
+            },
+            {
+                "letter": "d",
+                "text": "lompat jongkok"
+            },
+            {
+                "letter": "e",
+                "text": "lompat harimau"
+            }
+        ],
+        "correct_answer": "c"
+    },
+    {
+        "number": 16,
+        "question": "Sikap awal guling depan dapat dilakukan dengan dua cara, yaitu \\...",
+        "choices": [
+            {
+                "letter": "a",
+                "text": "sikap jongkok dan berdiri"
+            },
+            {
+                "letter": "b",
+                "text": "sikap jongkok dan berbaring"
+            },
+            {
+                "letter": "c",
+                "text": "sikap jongkok dan terlentang"
+            },
+            {
+                "letter": "d",
+                "text": "sikap berdiri dan terlentang"
+            },
+            {
+                "letter": "e",
+                "text": "sikap diam dan membisu"
+            }
+        ],
+        "correct_answer": "a"
+    },
+    {
+        "number": 17,
+        "question": "Berguling ke depan dengan bagian belakang badan (tengkuk, punggung,\npinggang, dan panggul bagian belakang) dinamakan \\...",
+        "choices": [
+            {
+                "letter": "a",
+                "text": "tiger sprong"
+            },
+            {
+                "letter": "b",
+                "text": "roll belakang"
+            },
+            {
+                "letter": "c",
+                "text": "handspring"
+            },
+            {
+                "letter": "d",
+                "text": "roll depan"
+            },
+            {
+                "letter": "e",
+                "text": "kopkip"
+            }
+        ],
+        "correct_answer": "d"
+    },
+    {
+        "number": 18,
+        "question": "Perhatikan gambar berikut ini!\n<img src=\"./img/gambar6.png\" alt=\"Image for question\">\nNama gerakan tersebut yaitu lompat \\...",
+        "choices": [
+            {
+                "letter": "a",
+                "text": "harimau"
+            },
+            {
+                "letter": "b",
+                "text": "jongkok"
+            },
+            {
+                "letter": "c",
+                "text": "tinggi"
+            },
+            {
+                "letter": "d",
+                "text": "peti"
+            },
+            {
+                "letter": "e",
+                "text": "guling depan kopkip"
+            }
+        ],
+        "correct_answer": "a"
+    },
+    {
+        "number": 20,
+        "question": "Perhatikan gambar berikut!\n<img src=\"./img/gambar7.png\" alt=\"Image for question\">\nNama gerakan tersebut yaitu lompat \\...",
+        "choices": [
+            {
+                "letter": "a",
+                "text": "harimau"
+            },
+            {
+                "letter": "b",
+                "text": "jongkok"
+            },
+            {
+                "letter": "c",
+                "text": "tinggi"
+            },
+            {
+                "letter": "d",
+                "text": "peti"
+            },
+            {
+                "letter": "e",
+                "text": "guling depan kopkip"
+            }
+        ],
+        "correct_answer": "b"
+    },
+    {
+        "number": 21,
+        "question": "Layangan kedua dilakukan dengan jenis lompatan yang berbeda dalam\nlompat guling depan kuda lompat disebut \\...",
+        "choices": [
+            {
+                "letter": "a",
+                "text": "approaching"
+            },
+            {
+                "letter": "b",
+                "text": "spring board"
+            },
+            {
+                "letter": "c",
+                "text": "first flight"
+            },
+            {
+                "letter": "d",
+                "text": "second flight"
+            },
+            {
+                "letter": "e",
+                "text": "landing"
+            }
+        ],
+        "correct_answer": "d"
+    },
+    {
+        "number": 22,
+        "question": "Gerakan senam lantai yang dilakukan dengan berguling ke arah depan\ndengan bantuan alat kuda lompat disebut \\...",
+        "choices": [
+            {
+                "letter": "a",
+                "text": "lompat guling depan kuda lompat"
+            },
+            {
+                "letter": "b",
+                "text": "roll depan"
+            },
+            {
+                "letter": "c",
+                "text": "roll belakang"
+            },
+            {
+                "letter": "d",
+                "text": "guling depan kopkip"
+            },
+            {
+                "letter": "e",
+                "text": "gerakan balingbaling"
+            }
+        ],
+        "correct_answer": "a"
+    },
+    {
+        "number": 23,
+        "question": "Teknik menolak pada papan tolak dalam lompat guling depan kuda\nlompat disebut \\...",
+        "choices": [
+            {
+                "letter": "a",
+                "text": "landing"
+            },
+            {
+                "letter": "b",
+                "text": "second flight"
+            },
+            {
+                "letter": "c",
+                "text": "repulsion"
+            },
+            {
+                "letter": "d",
+                "text": "first flight"
+            },
+            {
+                "letter": "e",
+                "text": "spring board"
+            }
+        ],
+        "correct_answer": "e"
+    },
+    {
+        "number": 24,
+        "question": "Selain untuk mencegah cedera pada lutut, membengkokkan lutut pada\nsaat mendarat berfungsi sebagai \\...",
+        "choices": [
+            {
+                "letter": "a",
+                "text": "kelentukan tubuh"
+            },
+            {
+                "letter": "b",
+                "text": "penjaga keseimbangan"
+            },
+            {
+                "letter": "c",
+                "text": "pendaratan"
+            },
+            {
+                "letter": "d",
+                "text": "tolakan"
+            },
+            {
+                "letter": "e",
+                "text": "penjaga kecepatan"
+            }
+        ],
+        "correct_answer": "c"
+    },
+    {
+        "number": 25,
+        "question": "Perhatikan gambar berikut!\n<img src=\"./img/gambar8.png\" alt=\"Image for question\">\nGambar di atas adalah gerakan tolakan menggunakan \\...",
+        "choices": [
+            {
+                "letter": "a",
+                "text": "satu kaki"
+            },
+            {
+                "letter": "b",
+                "text": "dua kaki"
+            },
+            {
+                "letter": "c",
+                "text": "satu tangan"
+            },
+            {
+                "letter": "d",
+                "text": "dua tangan"
+            },
+            {
+                "letter": "e",
+                "text": "lutut"
+            }
+        ],
+        "correct_answer": "b"
+    },
+    {
+        "number": 26,
+        "question": "Gerakan lompat guling depan pada kuda lompat yang harus dihindari\nadalah \\...",
+        "choices": [
+            {
+                "letter": "a",
+                "text": "pendaratan (landing) dilakukan tepat setelah layangan kedua dilakukan"
+            },
+            {
+                "letter": "b",
+                "text": "layangan kedua (second flight) dilakukan dengan jenis lompatan yang berbeda"
+            },
+            {
+                "letter": "c",
+                "text": "lari awalan (approaching) ditempuh dengan jarak tidak lebih dari 25 m"
+            },
+            {
+                "letter": "d",
+                "text": "menolak pada papan tolak (spring board)"
+            },
+            {
+                "letter": "e",
+                "text": "latihan di lantai, dari sikap tumit lengan depan"
+            }
+        ],
+        "correct_answer": "e"
+    },
+    {
+        "number": 27,
+        "question": "Gerakan \\... dilakukan dengan cara melingkarkan tubuh menuju depan\ndengan gerakan berawal dari tengkuk, punggung, pinggang, hingga panggul\nbagian belakang.",
+        "choices": [
+            {
+                "letter": "a",
+                "text": "guling depan"
+            },
+            {
+                "letter": "b",
+                "text": "guling belakang"
+            },
+            {
+                "letter": "c",
+                "text": "guling mendarat"
+            },
+            {
+                "letter": "d",
+                "text": "guling lenting"
+            },
+            {
+                "letter": "e",
+                "text": "guling samping"
+            }
+        ],
+        "correct_answer": "a"
+    },
+    {
+        "number": 28,
+        "question": "Saat latihan awalan tolakan dua kaki tahap kedua yang disiapkan\nadalah \\...",
+        "choices": [
+            {
+                "letter": "a",
+                "text": "siapkan bola, papan tolak, dan matras pendaratan"
+            },
+            {
+                "letter": "b",
+                "text": "siapkan tali dan papan kuda"
+            },
+            {
+                "letter": "c",
+                "text": "siapkan matras dan papan loncat"
+            },
+            {
+                "letter": "d",
+                "text": "siapkan papan tolak dan bola"
+            },
+            {
+                "letter": "e",
+                "text": "siapkan papan loncat dan peti loncat"
+            }
+        ],
+        "correct_answer": "a"
+    },
+    {
+        "number": 29,
+        "question": "Perhatikan gambar berikut!\n<img src=\"./img/gambar15.png\" alt=\"Image for question\">\nBerikut adalah gerakan \\...",
+        "choices": [
+            {
+                "letter": "a",
+                "text": "latihan cara meletakkan tengkuk di atas peti"
+            },
+            {
+                "letter": "b",
+                "text": "pembelajaran lompat guling depan keseluruhan"
+            },
+            {
+                "letter": "c",
+                "text": "latihan awalan tolakan dua kaki (hurdling)"
+            },
+            {
+                "letter": "d",
+                "text": "latihan gerakan inti tolakan dua kuda"
+            },
+            {
+                "letter": "e",
+                "text": "latihan cara meletakkan bahu di atas peti"
+            }
+        ],
+        "correct_answer": "c"
+    },
+    {
+        "number": 30,
+        "question": "Pendaratan dalam gerakan lompat guling depan pada kuda lompat harus\ntetap dilakukan menggunakan \\... untuk menyerap berat tubuh.",
+        "choices": [
+            {
+                "letter": "a",
+                "text": "ujung jari kaki dengan lutut dibengkokkan"
+            },
+            {
+                "letter": "b",
+                "text": "ujung tumit kaki dengan lutut dibengkokkan"
+            },
+            {
+                "letter": "c",
+                "text": "ujung tangan dengan lutut dibengkokkan"
+            },
+            {
+                "letter": "d",
+                "text": "ujung lutut dengan kaki dibengkokkan"
+            },
+            {
+                "letter": "e",
+                "text": "ujung kaki dengan lutut dibengkokkan"
+            }
+        ],
+        "correct_answer": "a"
+    },
+    {
+        "number": 1,
+        "question": "Nomor lari jarak pendek adalah \\....",
+        "choices": [
+            {
+                "letter": "a",
+                "text": "100 meter, 200 meter, dan 300 meter"
+            },
+            {
+                "letter": "b",
+                "text": "100 meter, 200 meter, dan 250 meter"
+            },
+            {
+                "letter": "c",
+                "text": "100 meter, 200 meter, dan 4000 meter"
+            },
+            {
+                "letter": "d",
+                "text": "1000 meter, 2000 meter, dan 3000 meter"
+            },
+            {
+                "letter": "e",
+                "text": "100 meter, 200 meter, dan 400 meter"
+            }
+        ],
+        "correct_answer": "e"
+    },
+    {
+        "number": 2,
+        "question": "Di bawah ini yang tidak termasuk teknik dalam lari jarak pendek\nadalah \\....",
+        "choices": [
+            {
+                "letter": "a",
+                "text": "pandangan fokus ke depan"
+            },
+            {
+                "letter": "b",
+                "text": "tangan tegak dan kuat"
+            },
+            {
+                "letter": "c",
+                "text": "lutut diangkat pendek"
+            },
+            {
+                "letter": "d",
+                "text": "kaki belakang menolak"
+            },
+            {
+                "letter": "e",
+                "text": "dada condong ke depan"
+            }
+        ],
+        "correct_answer": "c"
+    },
+    {
+        "number": 3,
+        "question": "Start yang digunakan pada lari jarak pendek adalah \\....",
+        "choices": [
+            {
+                "letter": "a",
+                "text": "berdiri"
+            },
+            {
+                "letter": "b",
+                "text": "jongkok"
+            },
+            {
+                "letter": "c",
+                "text": "berbaring"
+            },
+            {
+                "letter": "d",
+                "text": "kudakuda"
+            },
+            {
+                "letter": "e",
+                "text": "jinjit"
+            }
+        ],
+        "correct_answer": "b"
+    },
+    {
+        "number": 4,
+        "question": "Salah satu gerakan dasar dalam lari jarak pendek adalah \\....",
+        "choices": [
+            {
+                "letter": "a",
+                "text": "jalan jauh"
+            },
+            {
+                "letter": "b",
+                "text": "jalan kaki"
+            },
+            {
+                "letter": "c",
+                "text": "lompat jangkit"
+            },
+            {
+                "letter": "d",
+                "text": "lari di tempat"
+            },
+            {
+                "letter": "e",
+                "text": "jalan di tempat"
+            }
+        ],
+        "correct_answer": "d"
+    },
+    {
+        "number": 5,
+        "question": "Gambar di bawah adalah posisi badan saat abaaba \\....\n<img src=\"./img/gambar8-1.png\" alt=\"Image for question\">",
+        "choices": [
+            {
+                "letter": "a",
+                "text": "siap"
+            },
+            {
+                "letter": "b",
+                "text": "bersedia"
+            },
+            {
+                "letter": "c",
+                "text": "yak"
+            },
+            {
+                "letter": "d",
+                "text": "tahan"
+            },
+            {
+                "letter": "e",
+                "text": "mulai"
+            }
+        ],
+        "correct_answer": "b"
+    },
+    {
+        "number": 6,
+        "question": "Nomor lari jarak pendek adalah \\....",
+        "choices": [
+            {
+                "letter": "a",
+                "text": "tangan"
+            },
+            {
+                "letter": "b",
+                "text": "lutut"
+            },
+            {
+                "letter": "c",
+                "text": "kaki"
+            },
+            {
+                "letter": "d",
+                "text": "kepala"
+            },
+            {
+                "letter": "e",
+                "text": "sikusiku"
+            }
+        ],
+        "correct_answer": "c"
+    },
+    {
+        "number": 7,
+        "question": "Teknik dalam lompat jauh sesudah melaksanakan awalan adalah \\....",
+        "choices": [
+            {
+                "letter": "a",
+                "text": "melayang"
+            },
+            {
+                "letter": "b",
+                "text": "menolak"
+            },
+            {
+                "letter": "c",
+                "text": "mendarat"
+            },
+            {
+                "letter": "d",
+                "text": "melenting"
+            },
+            {
+                "letter": "e",
+                "text": "melangkah"
+            }
+        ],
+        "correct_answer": "b"
+    },
+    {
+        "number": 8,
+        "question": "Perhatikan gambar di bawah ini!\nGerakan akhir pada gambar di atas adalah gerakan \\....\n<img src=\"./img/gambar9.png\" alt=\"Image for question\">",
+        "choices": [
+            {
+                "letter": "a",
+                "text": "melompat"
+            },
+            {
+                "letter": "b",
+                "text": "melayang"
+            },
+            {
+                "letter": "c",
+                "text": "mendarat"
+            },
+            {
+                "letter": "d",
+                "text": "menarik"
+            },
+            {
+                "letter": "e",
+                "text": "melambung"
+            }
+        ],
+        "correct_answer": "c"
+    },
+    {
+        "number": 9,
+        "question": "Perhatikan pernyataan di bawah ini!\n(1)Ayunkan dan pertahankan paha kaki bebas cepat ke posisi horizontal.\n(2)Saat bertolak dari papan, posisi tubuh pelompat harus dalam keadaan\ntegak.\n(3)Angkat tangan ke atas, bersamaan dengan menekuk kaki ke belakang.\n(4)Saat melakukan tolakan, luruskan sendi mata kaki, lutut, dan\npinggang.\n(5)Bertolaklah ke depan dan ke atas dengan membentuk sudut tolakan 45°.\nDari pernyataan di atas yang termasuk dari teknik melakukan tolakan\nadalah \\....",
+        "choices": [
+            {
+                "letter": "a",
+                "text": "(1), (4), dan (5)"
+            },
+            {
+                "letter": "b",
+                "text": "(2), (3), dan (4)"
+            },
+            {
+                "letter": "c",
+                "text": "(3), (4), dan (5)"
+            },
+            {
+                "letter": "d",
+                "text": "(1), (2), dan (3)"
+            },
+            {
+                "letter": "e",
+                "text": "(1), (2), dan (4)"
+            }
+        ],
+        "correct_answer": "d"
+    },
+    {
+        "number": 10,
+        "question": "Perhatikan pernyataan berikut!\n(1)Saat bertolak dari papan, posisi tubuh pelompat harus dalam keadaan\ntegak.\n(2)Angkat tangan ke atas, bersamaan dengan menekuk kaki ke belakang.\n(3)Sesaat sebelum mendarat, luruskan kaki. Pastikan tumit menyentuh bak\npasir lebih dahulu.\n(4)Tarik lengan dan tubuh ke depan dan ke bawah.\n(5)Sebelum mendarat, ulurkan kaki.\nPernyataan di atas yang merupakan teknik lompat jauh gaya berjalan di\nudara adalah \\....",
+        "choices": [
+            {
+                "letter": "a",
+                "text": "(1), (3), dan (4)"
+            },
+            {
+                "letter": "b",
+                "text": "(2), (3), dan (4)"
+            },
+            {
+                "letter": "c",
+                "text": "(3), (4), dan (5)"
+            },
+            {
+                "letter": "d",
+                "text": "(1), (2), dan (3)"
+            },
+            {
+                "letter": "e",
+                "text": "(1), (2), dan (4)"
+            }
+        ],
+        "correct_answer": "d"
+    },
+    {
+        "number": 11,
+        "question": "Saat ingin menolak peluru, peluru diletakkan di antara \\....",
+        "choices": [
+            {
+                "letter": "a",
+                "text": "belakang kepala"
+            },
+            {
+                "letter": "b",
+                "text": "belakang telinga"
+            },
+            {
+                "letter": "c",
+                "text": "atas bahu kanan"
+            },
+            {
+                "letter": "d",
+                "text": "depan dada"
+            },
+            {
+                "letter": "e",
+                "text": "depan leher"
+            }
+        ],
+        "correct_answer": "b"
+    },
+    {
+        "number": 12,
+        "question": "Gaya O\\'Brien dalam istilah tolak peluru disebut juga gaya \\....",
+        "choices": [
+            {
+                "letter": "a",
+                "text": "depan"
+            },
+            {
+                "letter": "b",
+                "text": "belakang"
+            },
+            {
+                "letter": "c",
+                "text": "membelakangi"
+            },
+            {
+                "letter": "d",
+                "text": "samping"
+            },
+            {
+                "letter": "e",
+                "text": "melayang"
+            }
+        ],
+        "correct_answer": "a"
+    },
+    {
+        "number": 13,
+        "question": "Latihan yang perlu dilakukan seorang atlet tolak peluru untuk\nmendapatkan tolakan yang jauh ialah \\....",
+        "choices": [
+            {
+                "letter": "a",
+                "text": "joging"
+            },
+            {
+                "letter": "b",
+                "text": "push up"
+            },
+            {
+                "letter": "c",
+                "text": "sit up"
+            },
+            {
+                "letter": "d",
+                "text": "melompat"
+            },
+            {
+                "letter": "e",
+                "text": "lari zigzag"
+            }
+        ],
+        "correct_answer": "b"
+    },
+    {
+        "number": 14,
+        "question": "Peluru yang digunakan dalam tolak peluru terbuat dari besi dengan\nberat \\....",
+        "choices": [
+            {
+                "letter": "a",
+                "text": "1-5 kg"
+            },
+            {
+                "letter": "b",
+                "text": "4-7 kg"
+            },
+            {
+                "letter": "c",
+                "text": "6-10 kg"
+            },
+            {
+                "letter": "d",
+                "text": "9-12 kg"
+            },
+            {
+                "letter": "e",
+                "text": "11-15 kg"
+            }
+        ],
+        "correct_answer": "b"
+    },
+    {
+        "number": 15,
+        "question": "Perhatikan pernyataan berikut!\nDiawali dengan mengangkat kaki kiri ke atas. Saat kaki tersebut turun,\nsegera geser kaki kanan ke sebelah dalam lingkaran tempat kaki kiri\nberada. Dengan demikian, kaki kiri pun bergeser ke ujung lingkaran yang\nmenyentuh balok penahan. Luruskan kaki kanan yang menahan berat badan.\nPernyataan di atas adalah gerakan cara menolak peluru dengan gaya \\....",
+        "choices": [
+            {
+                "letter": "a",
+                "text": "menyamping"
+            },
+            {
+                "letter": "b",
+                "text": "menengah"
+            },
+            {
+                "letter": "c",
+                "text": "membelakangi"
+            },
+            {
+                "letter": "d",
+                "text": "menghadap"
+            },
+            {
+                "letter": "e",
+                "text": "memutari"
+            }
+        ],
+        "correct_answer": "a"
+    },
+    {
+        "number": 16,
+        "question": "Gerakan senam lantai yang mendukung gerakan meroda yakni sikap\n\\....",
+        "choices": [
+            {
+                "letter": "a",
+                "text": "berdiri"
+            },
+            {
+                "letter": "b",
+                "text": "lilin"
+            },
+            {
+                "letter": "c",
+                "text": "angkat tubuh"
+            },
+            {
+                "letter": "d",
+                "text": "berbaring duduk"
+            },
+            {
+                "letter": "e",
+                "text": "melenting"
+            }
+        ],
+        "correct_answer": "b"
+    },
+    {
+        "number": 17,
+        "question": "Posisi kaki sikap awal gerakan meroda adalah \\....",
+        "choices": [
+            {
+                "letter": "a",
+                "text": "dibuka sedikit lebar"
+            },
+            {
+                "letter": "b",
+                "text": "dibuka lebarlebar"
+            },
+            {
+                "letter": "c",
+                "text": "dibuka selebar bahu"
+            },
+            {
+                "letter": "d",
+                "text": "dirapatkan"
+            },
+            {
+                "letter": "e",
+                "text": "salah satu kaki di depan"
+            }
+        ],
+        "correct_answer": "c"
+    },
+    {
+        "number": 18,
+        "question": "Gerakan senam lantai yang mendukung gerakan meroda adalah \\....",
+        "choices": [
+            {
+                "letter": "a",
+                "text": "handstand"
+            },
+            {
+                "letter": "b",
+                "text": "hand spring"
+            },
+            {
+                "letter": "c",
+                "text": "tiger sprong"
+            },
+            {
+                "letter": "d",
+                "text": "forward roll"
+            },
+            {
+                "letter": "e",
+                "text": "back roll"
+            }
+        ],
+        "correct_answer": "a"
+    },
+    {
+        "number": 19,
+        "question": "Berikut ini keterampilan yang harus dimiliki untuk melakukan\ngerakan balingbaling adalah \\....",
+        "choices": [
+            {
+                "letter": "a",
+                "text": "guling depan"
+            },
+            {
+                "letter": "b",
+                "text": "squad jump"
+            },
+            {
+                "letter": "c",
+                "text": "handstand"
+            },
+            {
+                "letter": "d",
+                "text": "headstand"
+            },
+            {
+                "letter": "e",
+                "text": "kayang"
+            }
+        ],
+        "correct_answer": "c"
+    },
+    {
+        "number": 20,
+        "question": "Perhatikan pernyataan berikut!\n(1)Berdiri dengan sikap menyamping.\n(2)Selanjutnya, badan dijatuhkan ke arah samping kiri.\n(3)Kedua tangan dijulurkan ke atas.\n(4)Kepala diserongkan ke arah samping.\n(5)Kedua kaki dibuka selebar bahu.\nUrutan yang tepat saat melakukan gerakan balingbaling adalah \\....",
+        "choices": [
+            {
+                "letter": "a",
+                "text": "(1), (5), (3), (4), dan (2)"
+            },
+            {
+                "letter": "b",
+                "text": "(2), (5), (3), (4), dan (1)"
+            },
+            {
+                "letter": "c",
+                "text": "(1), (2), (3), (4), dan (5)"
+            },
+            {
+                "letter": "d",
+                "text": "(3), (5), (1), (4), dan (2)"
+            },
+            {
+                "letter": "e",
+                "text": "(1), (4), (3), (5), dan (2)"
+            }
+        ],
+        "correct_answer": "e"
+    },
+    {
+        "number": 21,
+        "question": "Salah satu jenis gerakan senam lantai yang hampir menyerupai guling\ndepan yaitu \\....",
+        "choices": [
+            {
+                "letter": "a",
+                "text": "headstand"
+            },
+            {
+                "letter": "b",
+                "text": "gerak kopkip"
+            },
+            {
+                "letter": "c",
+                "text": "handstand"
+            },
+            {
+                "letter": "d",
+                "text": "guling belakang"
+            },
+            {
+                "letter": "e",
+                "text": "cartwheel"
+            }
+        ],
+        "correct_answer": "e"
+    },
+    {
+        "number": 22,
+        "question": "Agar semakin mahir melakukan kopkip dapat dilakukan latihan berupa\ngerakan \\....",
+        "choices": [
+            {
+                "letter": "a",
+                "text": "gerakan lenting leher dan lenting kepala"
+            },
+            {
+                "letter": "b",
+                "text": "gerakan lenting tengkuk dan lenting bahu"
+            },
+            {
+                "letter": "c",
+                "text": "gerakan lenting dada dan lenting kepala"
+            },
+            {
+                "letter": "d",
+                "text": "gerakan lenting kaki dan lenting tangan"
+            },
+            {
+                "letter": "e",
+                "text": "gerakan lenting tengkuk dan lenting kepala (neck/head spring)"
+            }
+        ],
+        "correct_answer": "e"
+    },
+    {
+        "number": 23,
+        "question": "Perhatikan gambar berikut!\nGambar di atas adalah posisi \\....\n<img src=\"./img/gambar10.png\" alt=\"Image for question\">",
+        "choices": [
+            {
+                "letter": "a",
+                "text": "meroda"
+            },
+            {
+                "letter": "b",
+                "text": "handstand"
+            },
+            {
+                "letter": "c",
+                "text": "cartwheel"
+            },
+            {
+                "letter": "d",
+                "text": "guling depan"
+            },
+            {
+                "letter": "e",
+                "text": "kopkip"
+            }
+        ],
+        "correct_answer": "b"
+    },
+    {
+        "number": 24,
+        "question": "Perhatikan pernyataan berikut!\n(1)Berdiri tegak dengan kedua kaki rapat dan kedua lengan diangkat\nlurus.\n(2)Dengan melambungkan badan, kedua tangan diletakkan di lantai kirakira\nsatu langkah dari kaki.\n(3)Letakkan tengkuk di antara kedua tangan sambil mengambil sikap roll\ndepan.\n(4)Jaga kedua kaki tetap lurus.\nPernyataan di atas adalah tahapan melakukan guling depan kopkip \\....",
+        "choices": [
+            {
+                "letter": "a",
+                "text": "sikap awal"
+            },
+            {
+                "letter": "b",
+                "text": "sikap pertengahan"
+            },
+            {
+                "letter": "c",
+                "text": "sikap akhir"
+            },
+            {
+                "letter": "d",
+                "text": "sikap siap"
+            },
+            {
+                "letter": "e",
+                "text": "sikap bebas"
+            }
+        ],
+        "correct_answer": "b"
+    },
+    {
+        "number": 25,
+        "question": "Perhatikan pernyataan berikut!\n(1)Berdiri tegak dengan kedua kaki rapat dan kedua lengan diangkat\nlurus.\n(2)Dengan melambungkan badan, kedua tangan diletakkan di lantai kirakira\nsatu langkah dari kaki.\n(3)Saat layangan selesai, kedua kaki segera mendarat.\n(4)Badan tetap melenting dan kedua lengan tetap terangkat lurus.\n(5)Kemudian, berdiri tegak.\nYang termasuk gerakan guling depan kopkip sikap awal ditunjukkan nomor\n\\....",
+        "choices": [
+            {
+                "letter": "a",
+                "text": "(1) dan (2)"
+            },
+            {
+                "letter": "b",
+                "text": "(2) dan (3)"
+            },
+            {
+                "letter": "c",
+                "text": "(3) dan (4)"
+            },
+            {
+                "letter": "d",
+                "text": "(4) dan (5)"
+            },
+            {
+                "letter": "e",
+                "text": "(1) dan (4)"
+            }
+        ],
+        "correct_answer": "a"
+    },
+    {
+        "number": 26,
+        "question": "Latihan awalan tolakan dua kaki dalam istilah olahraga disebut\n\\....",
+        "choices": [
+            {
+                "letter": "a",
+                "text": "hurdling"
+            },
+            {
+                "letter": "b",
+                "text": "approaching"
+            },
+            {
+                "letter": "c",
+                "text": "first flight"
+            },
+            {
+                "letter": "d",
+                "text": "repulsion"
+            },
+            {
+                "letter": "e",
+                "text": "second flight"
+            }
+        ],
+        "correct_answer": "a"
+    },
+    {
+        "number": 27,
+        "question": "Tahap tolakan tangan pada gerakan guling depan kuda lompat disebut\n\\....",
+        "choices": [
+            {
+                "letter": "a",
+                "text": "approaching"
+            },
+            {
+                "letter": "b",
+                "text": "spring broad"
+            },
+            {
+                "letter": "c",
+                "text": "first flight"
+            },
+            {
+                "letter": "d",
+                "text": "repulsion"
+            },
+            {
+                "letter": "e",
+                "text": "second flight"
+            }
+        ],
+        "correct_answer": "d"
+    },
+    {
+        "number": 28,
+        "question": "Perhatikan pernyataan berikut!\nSiapkan sebuah bola yang diletakkan di lantai. Pelompat berdiri kirakira\ntiga langkah di belakang bola. Maju tiga langkah, dimulai dengan kaki\nkiri. Ketika kaki kiri melangkah lagi pada langkah ketiga, lakukan\ntolakan dengan kaki tersebut untuk melompati bola yang berada di depan\npelompat. Kemudian, mendarat dengan dua kaki.\nPernyataan di atas adalah termasuk tahap \\.... dari latihan awalan\ntolakan 2 kaki.",
+        "choices": [
+            {
+                "letter": "a",
+                "text": "pertama"
+            },
+            {
+                "letter": "b",
+                "text": "kedua"
+            },
+            {
+                "letter": "c",
+                "text": "ketiga"
+            },
+            {
+                "letter": "d",
+                "text": "keempat"
+            },
+            {
+                "letter": "e",
+                "text": "kelima"
+            }
+        ],
+        "correct_answer": "c"
+    },
+    {
+        "number": 29,
+        "question": "Semakin cepat lari awalan pada lompat guling depan yang dilakukan,\nsemakin besar \\.... yang dihasilkan.",
+        "choices": [
+            {
+                "letter": "a",
+                "text": "momentum"
+            },
+            {
+                "letter": "b",
+                "text": "dorongan"
+            },
+            {
+                "letter": "c",
+                "text": "tarikan"
+            },
+            {
+                "letter": "d",
+                "text": "arus"
+            },
+            {
+                "letter": "e",
+                "text": "beban"
+            }
+        ],
+        "correct_answer": "b"
+    },
+    {
+        "number": 1,
+        "question": "Pola langkah yang jatuh pada ketukan hitungan dua adalah \\....",
+        "choices": [
+            {
+                "letter": "a",
+                "text": "pola langkah 1"
+            },
+            {
+                "letter": "b",
+                "text": "pola langkah 2"
+            },
+            {
+                "letter": "c",
+                "text": "pola langkah 3"
+            },
+            {
+                "letter": "d",
+                "text": "pola langkah 4"
+            },
+            {
+                "letter": "e",
+                "text": "pola langkah 5"
+            }
+        ],
+        "correct_answer": "c"
+    },
+    {
+        "number": 2,
+        "question": "Lagu yang berirama waltz atau 3/4 umumnya lebih lambat dari lagulagu\n\\....",
+        "choices": [
+            {
+                "letter": "a",
+                "text": "2/3"
+            },
+            {
+                "letter": "b",
+                "text": "1/4"
+            },
+            {
+                "letter": "c",
+                "text": "3/3"
+            },
+            {
+                "letter": "d",
+                "text": "4/3"
+            },
+            {
+                "letter": "e",
+                "text": "4/4"
+            }
+        ],
+        "correct_answer": "e"
+    },
+    {
+        "number": 3,
+        "question": "Pola langkah empat merupakan pola langkah yang cukup mudah dan\nsifatnya lebih \\....",
+        "choices": [
+            {
+                "letter": "a",
+                "text": "lambat"
+            },
+            {
+                "letter": "b",
+                "text": "dinamis"
+            },
+            {
+                "letter": "c",
+                "text": "statis"
+            },
+            {
+                "letter": "d",
+                "text": "cepat"
+            },
+            {
+                "letter": "e",
+                "text": "indah"
+            }
+        ],
+        "correct_answer": "a"
+    },
+    {
+        "number": 4,
+        "question": "Pola langkah empat sering digunakan untuk berbagai \\....",
+        "choices": [
+            {
+                "letter": "a",
+                "text": "tarian modern"
+            },
+            {
+                "letter": "b",
+                "text": "tarian daerah"
+            },
+            {
+                "letter": "c",
+                "text": "lagu modern"
+            },
+            {
+                "letter": "d",
+                "text": "lagu daerah"
+            },
+            {
+                "letter": "e",
+                "text": "musik disko"
+            }
+        ],
+        "correct_answer": "b"
+    },
+    {
+        "number": 5,
+        "question": "Irama waltz mempunyai tanda birama \\....",
+        "choices": [
+            {
+                "letter": "a",
+                "text": "1/4"
+            },
+            {
+                "letter": "b",
+                "text": "2/4"
+            },
+            {
+                "letter": "c",
+                "text": "3/4"
+            },
+            {
+                "letter": "d",
+                "text": "4/4"
+            },
+            {
+                "letter": "e",
+                "text": "4/3"
+            }
+        ],
+        "correct_answer": "c"
+    },
+    {
+        "number": 6,
+        "question": "Perhatikan namanama lagu berikut!\n\\(1\\) Mangga Pisang Jambu.\n\\(2\\) Kampung Nan Jauh Dimato.\n\\(3\\) Tinggi Gunung Seribu Janji.\n\\(4\\) Diwajahmu Kulihat Bulan.\n\\(5\\) Pakarena.\nLagu di atas yang merupakan karya Bing Slamet ditunjukkan oleh nomor\n\\....",
+        "choices": [
+            {
+                "letter": "a",
+                "text": "(1)"
+            },
+            {
+                "letter": "b",
+                "text": "(2)"
+            },
+            {
+                "letter": "c",
+                "text": "(3)"
+            },
+            {
+                "letter": "d",
+                "text": "(4)"
+            },
+            {
+                "letter": "e",
+                "text": "(5)"
+            }
+        ],
+        "correct_answer": "a"
+    },
+    {
+        "number": 7,
+        "question": "Langkah yang selalu jatuh pada ketukan hitungan satu disebut \\....",
+        "choices": [
+            {
+                "letter": "a",
+                "text": "pola langkah 1"
+            },
+            {
+                "letter": "b",
+                "text": "pola langkah 2"
+            },
+            {
+                "letter": "c",
+                "text": "pola langkah 3"
+            },
+            {
+                "letter": "d",
+                "text": "pola langkah 4"
+            },
+            {
+                "letter": "e",
+                "text": "pola langkah 5"
+            }
+        ],
+        "correct_answer": "a"
+    },
+    {
+        "number": 8,
+        "question": "Langkah yang ditutup dengan hitungan kedua disebut \\....",
+        "choices": [
+            {
+                "letter": "a",
+                "text": "pola langkah 1"
+            },
+            {
+                "letter": "b",
+                "text": "pola langkah 2"
+            },
+            {
+                "letter": "c",
+                "text": "pola langkah 3"
+            },
+            {
+                "letter": "d",
+                "text": "pola langkah 4"
+            },
+            {
+                "letter": "e",
+                "text": "pola langkah 5"
+            }
+        ],
+        "correct_answer": "b"
+    },
+    {
+        "number": 9,
+        "question": "Berikut ini contoh irama yang menggunakan pola langkah 3 adalah\n\\....",
+        "choices": [
+            {
+                "letter": "a",
+                "text": "syncope"
+            },
+            {
+                "letter": "b",
+                "text": "ostinato"
+            },
+            {
+                "letter": "c",
+                "text": "walz"
+            },
+            {
+                "letter": "d",
+                "text": "poliritmia"
+            },
+            {
+                "letter": "e",
+                "text": "polimerik"
+            }
+        ],
+        "correct_answer": "c"
+    },
+    {
+        "number": 10,
+        "question": "Berikut ini contoh lagu yang berirama waltz, kecuali \\....",
+        "choices": [
+            {
+                "letter": "a",
+                "text": "Desaku"
+            },
+            {
+                "letter": "b",
+                "text": "Burung Kakatua"
+            },
+            {
+                "letter": "c",
+                "text": "NaikNaik ke Puncak Gunung"
+            },
+            {
+                "letter": "d",
+                "text": "Madekdek Magambi"
+            },
+            {
+                "letter": "e",
+                "text": "Kampung Nan Jauh Dimato"
+            }
+        ],
+        "correct_answer": "e"
+    },
+    {
+        "number": 11,
+        "question": "Pola langkah yang sering digunakan dalam tarian tradisional di\nIndonesia adalah \\....",
+        "choices": [
+            {
+                "letter": "a",
+                "text": "pola langkah 1"
+            },
+            {
+                "letter": "b",
+                "text": "pola langkah 2"
+            },
+            {
+                "letter": "c",
+                "text": "pola langkah 3"
+            },
+            {
+                "letter": "d",
+                "text": "pola langkah 4"
+            },
+            {
+                "letter": "e",
+                "text": "pola langkah 5"
+            }
+        ],
+        "correct_answer": "d"
+    },
+    {
+        "number": 12,
+        "question": "Perhatikan gambar berikut!\n<img src=\"./img/gambar11.png\" alt=\"Image for question\">\nGambar di atas adalah merupakan pola langkah \\....",
+        "choices": [
+            {
+                "letter": "a",
+                "text": "1"
+            },
+            {
+                "letter": "b",
+                "text": "2"
+            },
+            {
+                "letter": "c",
+                "text": "3"
+            },
+            {
+                "letter": "d",
+                "text": "4"
+            },
+            {
+                "letter": "e",
+                "text": "5"
+            }
+        ],
+        "correct_answer": "a"
+    },
+    {
+        "number": 13,
+        "question": "Gerakgerak yang dilakukan biasanya dipasangkan dengan irama musik\nyang pas sehingga jadilah tarian berpola dan berirama khusus. Pada\ndasarnya terdapat \\... pola langkah.",
+        "choices": [
+            {
+                "letter": "a",
+                "text": "satu"
+            },
+            {
+                "letter": "b",
+                "text": "tiga"
+            },
+            {
+                "letter": "c",
+                "text": "empat"
+            },
+            {
+                "letter": "d",
+                "text": "lima"
+            },
+            {
+                "letter": "e",
+                "text": "tujuh"
+            }
+        ],
+        "correct_answer": "c"
+    },
+    {
+        "number": 14,
+        "question": "Perhatikan pernyataan berikut!\n\\(1\\) Lagu Naik Delman Istimewa.\n\\(2\\) Lagu Burung Kakatua.\n\\(3\\) Lagu Burung Tantina dari Maluku.\n\\(4\\) Lagu Balonku.\n\\(5\\) Lagu Naiknaik Ke Puncak Gunung dari Maluku.\n\\(6\\) lagu PelangiPelangi dari Jawa Barat.\nLagulagu Indonesia populer atau lagulagu daerah yang berirama waltz yang\ndapat digunakan sebagai pengiring dalam langkah irama waltz ditunjukkan\ndengan nomor \\....",
+        "choices": [
+            {
+                "letter": "a",
+                "text": "(2), (3), dan (6)"
+            },
+            {
+                "letter": "b",
+                "text": "(1), (2), dan (3)"
+            },
+            {
+                "letter": "c",
+                "text": "(3), (4), dan (5)"
+            },
+            {
+                "letter": "d",
+                "text": "(2), (3), dan (5)"
+            },
+            {
+                "letter": "e",
+                "text": "(1), (4), dan (6)"
+            }
+        ],
+        "correct_answer": "d"
+    },
+    {
+        "number": 15,
+        "question": "Perhatikan pernyataan berikut!\n\\(1\\) Satu: langkah kaki kiri.\n\\(2\\) Dua: tutup kaki kanan.\n\\(3\\) Tiga: tutup kaki kiri di tempat.\n\\(4\\) Satu: langkah kaki kanan.\n\\(5\\) Dua: kaki kiri maju tutup.\n\\(6\\) Tiga: tutup kaki kanan di tempat.\nPernyataan di atas adalah pola langkah \\....",
+        "choices": [
+            {
+                "letter": "a",
+                "text": "satu (1)"
+            },
+            {
+                "letter": "b",
+                "text": "dua (2)"
+            },
+            {
+                "letter": "c",
+                "text": "tiga (3)"
+            },
+            {
+                "letter": "d",
+                "text": "empat (4)"
+            },
+            {
+                "letter": "e",
+                "text": "lima (5)"
+            }
+        ],
+        "correct_answer": "c"
+    },
+    {
+        "number": 16,
+        "question": "Lompat tali yang dilakukan menggunakan dua tali disebut \\....",
+        "choices": [
+            {
+                "letter": "a",
+                "text": "skipping rope"
+            },
+            {
+                "letter": "b",
+                "text": "double dutch"
+            },
+            {
+                "letter": "c",
+                "text": "pola langkah 1"
+            },
+            {
+                "letter": "d",
+                "text": "pola langkah 2"
+            },
+            {
+                "letter": "e",
+                "text": "pola langkah 3"
+            }
+        ],
+        "correct_answer": "b"
+    },
+    {
+        "number": 17,
+        "question": "Lompat tali yang dilakukan secara rutin akan bermanfaat untuk\nmenguatkan berbagai \\....",
+        "choices": [
+            {
+                "letter": "a",
+                "text": "otot tubuh"
+            },
+            {
+                "letter": "b",
+                "text": "organ tubuh"
+            },
+            {
+                "letter": "c",
+                "text": "kesehatan tubuh"
+            },
+            {
+                "letter": "d",
+                "text": "fungsi organ"
+            },
+            {
+                "letter": "e",
+                "text": "kebugaran jasmani"
+            }
+        ],
+        "correct_answer": "a"
+    },
+    {
+        "number": 18,
+        "question": "Skipping rope merupakan lompat tali yang dilakukan secara \\....",
+        "choices": [
+            {
+                "letter": "a",
+                "text": "berkelompok"
+            },
+            {
+                "letter": "b",
+                "text": "beregu"
+            },
+            {
+                "letter": "c",
+                "text": "sendiri"
+            },
+            {
+                "letter": "d",
+                "text": "berdua"
+            },
+            {
+                "letter": "e",
+                "text": "bertiga"
+            }
+        ],
+        "correct_answer": "c"
+    },
+    {
+        "number": 19,
+        "question": "Latihan lompat tali dapat bermanfaat untuk \\....",
+        "choices": [
+            {
+                "letter": "a",
+                "text": "melatih otot punggung"
+            },
+            {
+                "letter": "b",
+                "text": "melatih otot leher"
+            },
+            {
+                "letter": "c",
+                "text": "melatih kebugaran jasmani"
+            },
+            {
+                "letter": "d",
+                "text": "menurunkan berat badan"
+            },
+            {
+                "letter": "e",
+                "text": "menambah berat badan"
+            }
+        ],
+        "correct_answer": "c"
+    },
+    {
+        "number": 20,
+        "question": "Suatu aktivitas penggunaan tali yang dipegang dengan kedua tangan\ndan diayunkan melewati kepala hingga kaki sambil melompatinya disebut\n\\....",
+        "choices": [
+            {
+                "letter": "a",
+                "text": "pola langkah"
+            },
+            {
+                "letter": "b",
+                "text": "cartwheel"
+            },
+            {
+                "letter": "c",
+                "text": "hurdling"
+            },
+            {
+                "letter": "d",
+                "text": "kopkip"
+            },
+            {
+                "letter": "e",
+                "text": "skipping"
+            }
+        ],
+        "correct_answer": "e"
+    },
+    {
+        "number": 21,
+        "question": "Lompat tali dapat melatih otot dengan gerakan melompat utamanya\nbagian bawah, yaitu \\....",
+        "choices": [
+            {
+                "letter": "a",
+                "text": "otot betis, otot paha, dan otot punggung"
+            },
+            {
+                "letter": "b",
+                "text": "otot paha, otot leher, dan otot bokong"
+            },
+            {
+                "letter": "c",
+                "text": "otot betis, otot leher, dan otot punggung"
+            },
+            {
+                "letter": "d",
+                "text": "otot betis, otot paha, dan otot bokong"
+            },
+            {
+                "letter": "e",
+                "text": "otot bokong, otot paha, dan otot punggung"
+            }
+        ],
+        "correct_answer": "d"
+    },
+    {
+        "number": 22,
+        "question": "Lompat tali yang dilakukan sendirian disebut \\....",
+        "choices": [
+            {
+                "letter": "a",
+                "text": "double dutch"
+            },
+            {
+                "letter": "b",
+                "text": "waltz"
+            },
+            {
+                "letter": "c",
+                "text": "quick step"
+            },
+            {
+                "letter": "d",
+                "text": "salsa"
+            },
+            {
+                "letter": "e",
+                "text": "skipping rope"
+            }
+        ],
+        "correct_answer": "e"
+    },
+    {
+        "number": 23,
+        "question": "Double dutch merupakan istilah untuk lompat tali \\....",
+        "choices": [
+            {
+                "letter": "a",
+                "text": "yang dilakukan sendiri"
+            },
+            {
+                "letter": "b",
+                "text": "berpasangan"
+            },
+            {
+                "letter": "c",
+                "text": "berkelompok"
+            },
+            {
+                "letter": "d",
+                "text": "berkelompok menggunakan dua tali"
+            },
+            {
+                "letter": "e",
+                "text": "berpasangan dengan dua tali"
+            }
+        ],
+        "correct_answer": "d"
+    },
+    {
+        "number": 24,
+        "question": "Latihan skipping rope dilakukan dengan memegang kedua ujung tali\nmenggunakan dua tangan yang berbeda. Latihan ini bermanfaat untuk \\....",
+        "choices": [
+            {
+                "letter": "a",
+                "text": "menjaga stamina"
+            },
+            {
+                "letter": "b",
+                "text": "melatih kekuatan otot tangan"
+            },
+            {
+                "letter": "c",
+                "text": "melatih kelincahan"
+            },
+            {
+                "letter": "d",
+                "text": "melatih kelenturan"
+            },
+            {
+                "letter": "e",
+                "text": "menjaga kesehatan tubuh"
+            }
+        ],
+        "correct_answer": "b"
+    },
+    {
+        "number": 25,
+        "question": "Lompat tali merupakan salah satu gerakan yang efektif untuk\nmeningkatkan \\....",
+        "choices": [
+            {
+                "letter": "a",
+                "text": "kerja otak"
+            },
+            {
+                "letter": "b",
+                "text": "kebugaran"
+            },
+            {
+                "letter": "c",
+                "text": "kinerja paruparu"
+            },
+            {
+                "letter": "d",
+                "text": "kinerja jantung"
+            },
+            {
+                "letter": "e",
+                "text": "kestablitasan"
+            }
+        ],
+        "correct_answer": "d"
+    },
+    {
+        "number": 26,
+        "question": "Sebelum melakukan permainan lompat tali, agar tidak mudah cedera\natau kram maka kita hendaknya melakukan \\....",
+        "choices": [
+            {
+                "letter": "a",
+                "text": "pemanasan"
+            },
+            {
+                "letter": "b",
+                "text": "pendinginan"
+            },
+            {
+                "letter": "c",
+                "text": "relaksasi"
+            },
+            {
+                "letter": "d",
+                "text": "refleksi"
+            },
+            {
+                "letter": "e",
+                "text": "sosialisasi"
+            }
+        ],
+        "correct_answer": "a"
+    },
+    {
+        "number": 27,
+        "question": "Latihan lompat tali dapat mempertajam kemampuan sensorik \\....",
+        "choices": [
+            {
+                "letter": "a",
+                "text": "mata"
+            },
+            {
+                "letter": "b",
+                "text": "telinga"
+            },
+            {
+                "letter": "c",
+                "text": "hidung"
+            },
+            {
+                "letter": "d",
+                "text": "mulut"
+            },
+            {
+                "letter": "e",
+                "text": "gigi"
+            }
+        ],
+        "correct_answer": "a"
+    },
+    {
+        "number": 28,
+        "question": "Perhatikan pernyataan berikut!\n\\(1\\) menguatkan berbagai otot tubuh\n\\(2\\) meningkatkan kepadatan tulang\n\\(3\\) melatih otot jari\n\\(4\\) meningkatkan keseimbangan.\n\\(5\\) melatih otot leher dan bahu\n\\(6\\) meningkatkan kerja jantung\nYang termasuk manfaat rutin lompat tali adalah \\....",
+        "choices": [
+            {
+                "letter": "a",
+                "text": "(2), (3), dan (6)"
+            },
+            {
+                "letter": "b",
+                "text": "(1), (2), dan (4)"
+            },
+            {
+                "letter": "c",
+                "text": "(3), (4), dan (5)"
+            },
+            {
+                "letter": "d",
+                "text": "(2), (3), dan (5)"
+            },
+            {
+                "letter": "e",
+                "text": "(1), (4), dan (6)"
+            }
+        ],
+        "correct_answer": "b"
+    },
+    {
+        "number": 29,
+        "question": "Perhatikan gambar di bawah ini!\n<img src=\"./img/gambar12.png\" alt=\"Image for question\">\nGambar di atas menunjukkan jenis lompat tali \\....",
+        "choices": [
+            {
+                "letter": "a",
+                "text": "double dutch"
+            },
+            {
+                "letter": "b",
+                "text": "berpasangan"
+            },
+            {
+                "letter": "c",
+                "text": "bervariasi"
+            },
+            {
+                "letter": "d",
+                "text": "mandiri"
+            },
+            {
+                "letter": "e",
+                "text": "double team"
+            }
+        ],
+        "correct_answer": "a"
+    },
+    {
+        "number": 30,
+        "question": "Perhatikan gambar di bawah!\n<img src=\"./img/gambar13.png\" alt=\"Image for question\">\nGambar di samping adalah jenis lompat tali \\....",
+        "choices": [
+            {
+                "letter": "a",
+                "text": "double dutch"
+            },
+            {
+                "letter": "b",
+                "text": "berpasangan"
+            },
+            {
+                "letter": "c",
+                "text": "bervariasi"
+            },
+            {
+                "letter": "d",
+                "text": "skipping rope"
+            },
+            {
+                "letter": "e",
+                "text": "double team"
+            }
+        ],
+        "correct_answer": "d"
+    },
+    {
+        "number": 1,
+        "question": "Dilakukan dengan cara ujung kaki belakang sejajar dengan tumit kaki\ndepan, adalah gerakan \\....",
+        "choices": [
+            {
+                "letter": "a",
+                "text": "start pendek (bunch start)"
+            },
+            {
+                "letter": "b",
+                "text": "start menengah (medium start)"
+            },
+            {
+                "letter": "c",
+                "text": "start panjang (long start)"
+            },
+            {
+                "letter": "d",
+                "text": "tahap abaaba \\\"siap\\\" (get set)"
+            },
+            {
+                "letter": "e",
+                "text": "tahap abaaba \\\"yak\\\" (ready)"
+            }
+        ],
+        "correct_answer": "b"
+    },
+    {
+        "number": 2,
+        "question": "Gerakan melangkahkan kaki dengan cepat yang pada setiap langkahnya\nkaki tidak menjejak tanah disebut \\....",
+        "choices": [
+            {
+                "letter": "a",
+                "text": "jalan"
+            },
+            {
+                "letter": "b",
+                "text": "lompat"
+            },
+            {
+                "letter": "c",
+                "text": "lempar"
+            },
+            {
+                "letter": "d",
+                "text": "lari"
+            },
+            {
+                "letter": "e",
+                "text": "tolakan"
+            }
+        ],
+        "correct_answer": "d"
+    },
+    {
+        "number": 3,
+        "question": "Gaya dalam lompat jauh yang ditandai dengan menekuk lutut menuju ke\natas saat sudah berhasil melompat dari titik tolak disebut \\....",
+        "choices": [
+            {
+                "letter": "a",
+                "text": "gaya menggantung"
+            },
+            {
+                "letter": "b",
+                "text": "gaya berjalan di udara"
+            },
+            {
+                "letter": "c",
+                "text": "gaya jongkok"
+            },
+            {
+                "letter": "d",
+                "text": "gaya kupukupu"
+            },
+            {
+                "letter": "e",
+                "text": "gaya bebas"
+            }
+        ],
+        "correct_answer": "c"
+    },
+    {
+        "number": 4,
+        "question": "Berikut adalah lompat jauh gaya \\....\n<img src=\"./img/gambar14.png\" alt=\"Image for question\">",
+        "choices": [
+            {
+                "letter": "a",
+                "text": "melayang"
+            },
+            {
+                "letter": "b",
+                "text": "jongkok"
+            },
+            {
+                "letter": "c",
+                "text": "berdiri"
+            },
+            {
+                "letter": "d",
+                "text": "menggantung"
+            },
+            {
+                "letter": "e",
+                "text": "berjalan di udara"
+            }
+        ],
+        "correct_answer": "b"
+    },
+    {
+        "number": 5,
+        "question": "Pada saat peluru dilepaskan dari tangan, kaki kanan maju ke arah\nkaki kiri dengan loncatan yang cepat dan kaki kiri diangkat dan\ndijulurkan ke belakang. Pergantian kaki tersebut disebut \\....",
+        "choices": [
+            {
+                "letter": "a",
+                "text": "reverse"
+            },
+            {
+                "letter": "b",
+                "text": "hitch kick style"
+            },
+            {
+                "letter": "c",
+                "text": "hang style"
+            },
+            {
+                "letter": "d",
+                "text": "tuck style"
+            },
+            {
+                "letter": "e",
+                "text": "take off"
+            }
+        ],
+        "correct_answer": "a"
+    },
+    {
+        "number": 6,
+        "question": "Cartwheel merupakan istilah lain dari \\....",
+        "choices": [
+            {
+                "letter": "a",
+                "text": "berdiri dengan kepala"
+            },
+            {
+                "letter": "b",
+                "text": "baling-baling"
+            },
+            {
+                "letter": "c",
+                "text": "berguling"
+            },
+            {
+                "letter": "d",
+                "text": "lompat harimau"
+            },
+            {
+                "letter": "e",
+                "text": "lompat ikan"
+            }
+        ],
+        "correct_answer": "b"
+    },
+    {
+        "number": 8,
+        "question": "Perhatikan pernyataan berikut!\n\\(1\\) Berdiri dengan sikap menyamping.\n\\(2\\) Kedua kaki dibuka selebar bahu.\n\\(3\\) Kedua tangan dijulurkan ke atas.\n\\(4\\) Kepala diserongkan ke arah samping\nLangkah langkah di atas adalah gerakan \\....",
+        "choices": [
+            {
+                "letter": "a",
+                "text": "kopkip"
+            },
+            {
+                "letter": "b",
+                "text": "baling-baling"
+            },
+            {
+                "letter": "c",
+                "text": "handstand"
+            },
+            {
+                "letter": "d",
+                "text": "freestyle"
+            },
+            {
+                "letter": "e",
+                "text": "sprinter"
+            }
+        ],
+        "correct_answer": "b"
+    },
+    {
+        "number": 9,
+        "question": "Gerakan dalam senam lantai yang dapat dilakukan tanpa alat disebut\n\\....",
+        "choices": [
+            {
+                "letter": "a",
+                "text": "lompat guling depan"
+            },
+            {
+                "letter": "b",
+                "text": "lompat kangkang"
+            },
+            {
+                "letter": "c",
+                "text": "lompat jauh"
+            },
+            {
+                "letter": "d",
+                "text": "lompat peti"
+            },
+            {
+                "letter": "e",
+                "text": "lompat tali"
+            }
+        ],
+        "correct_answer": "c"
+    },
+    {
+        "number": 10,
+        "question": "Perhatikan pernyataan di bawah ini!\nSiapkan bola, papan tolak, matras pendaratan, dan peti lompat. Proses\nlatihan dilakukan seperti tahap kedua, dengan menempatkan peti lompat di\nantara papan tolak dan matras pendaratan secara melintang. Pelompat\nharus melompat di papan tolak dan segera menempatkan diri di peti\nlompat.\nPernyataan di atas menjelaskan latihan awalan tolakan dua kaki tahap\n\\....",
+        "choices": [
+            {
+                "letter": "a",
+                "text": "pertama"
+            },
+            {
+                "letter": "b",
+                "text": "kedua"
+            },
+            {
+                "letter": "c",
+                "text": "ketiga"
+            },
+            {
+                "letter": "d",
+                "text": "keempat"
+            },
+            {
+                "letter": "e",
+                "text": "kelima"
+            }
+        ],
+        "correct_answer": "c"
+    },
+    {
+        "number": 11,
+        "question": "Fungsi musik dalam senam irama adalah untuk \\....",
+        "choices": [
+            {
+                "letter": "a",
+                "text": "menambah semangat gerakan"
+            },
+            {
+                "letter": "b",
+                "text": "memvariasikan gerakan"
+            },
+            {
+                "letter": "c",
+                "text": "memvariasikan langkah"
+            },
+            {
+                "letter": "d",
+                "text": "menambah gaya"
+            },
+            {
+                "letter": "e",
+                "text": "menambah keramaian"
+            }
+        ],
+        "correct_answer": "a"
+    },
+    {
+        "number": 12,
+        "question": "Diakhiri dengan cara mempertemukan kedua kaki di langkah kedua\nadalah pernyataan dari pola langkah yang ke \\....",
+        "choices": [
+            {
+                "letter": "a",
+                "text": "1"
+            },
+            {
+                "letter": "b",
+                "text": "2"
+            },
+            {
+                "letter": "c",
+                "text": "3"
+            },
+            {
+                "letter": "d",
+                "text": "4"
+            },
+            {
+                "letter": "e",
+                "text": "5"
+            }
+        ],
+        "correct_answer": "b"
+    },
+    {
+        "number": 13,
+        "question": "Pada setiap di antara dua garis birama dalam lagu tersebut\nmempunyai \\... hitungan.",
+        "choices": [
+            {
+                "letter": "a",
+                "text": "satu"
+            },
+            {
+                "letter": "b",
+                "text": "dua"
+            },
+            {
+                "letter": "c",
+                "text": "tiga"
+            },
+            {
+                "letter": "d",
+                "text": "empat"
+            },
+            {
+                "letter": "e",
+                "text": "lima"
+            }
+        ],
+        "correct_answer": "c"
+    },
+    {
+        "number": 14,
+        "question": "Salah satu contoh irama pola langkah adalah \\....",
+        "choices": [
+            {
+                "letter": "a",
+                "text": "irama cha cha cha"
+            },
+            {
+                "letter": "b",
+                "text": "irama salsa"
+            },
+            {
+                "letter": "c",
+                "text": "irama rock"
+            },
+            {
+                "letter": "d",
+                "text": "irama gerak langkah"
+            },
+            {
+                "letter": "e",
+                "text": "irama yam yam yam"
+            }
+        ],
+        "correct_answer": "a"
+    },
+    {
+        "number": 15,
+        "question": "Berikut ini contoh lagu yang berirama chacha, kecuali \\....",
+        "choices": [
+            {
+                "letter": "a",
+                "text": "Mangga Pisang Jambu"
+            },
+            {
+                "letter": "b",
+                "text": "Burung Kakatua"
+            },
+            {
+                "letter": "c",
+                "text": "Gunung Seribu Janji"
+            },
+            {
+                "letter": "d",
+                "text": "Pakarena"
+            },
+            {
+                "letter": "e",
+                "text": "Diwajahmu Kulihat Bulan"
+            }
+        ],
+        "correct_answer": "b"
+    },
+    {
+        "number": 16,
+        "question": "Lagu Burung Kakatua memiliki irama \\....",
+        "choices": [
+            {
+                "letter": "a",
+                "text": "poliritmik"
+            },
+            {
+                "letter": "b",
+                "text": "polimetrik"
+            },
+            {
+                "letter": "c",
+                "text": "ostinato"
+            },
+            {
+                "letter": "d",
+                "text": "sinkop"
+            },
+            {
+                "letter": "e",
+                "text": "waltz"
+            }
+        ],
+        "correct_answer": "e"
+    },
+    {
+        "number": 17,
+        "question": "Pola langkah 2 selalu diakhiri dengan mempertemukan \\... saat\nlangkah kedua.",
+        "choices": [
+            {
+                "letter": "a",
+                "text": "kedua kaki"
+            },
+            {
+                "letter": "b",
+                "text": "kedua tangan"
+            },
+            {
+                "letter": "c",
+                "text": "satu kaki dan satu tangan"
+            },
+            {
+                "letter": "d",
+                "text": "dua kaki dan satu tangan"
+            },
+            {
+                "letter": "e",
+                "text": "dua kaki dan dua tangan"
+            }
+        ],
+        "correct_answer": "b"
+    },
+    {
+        "number": 18,
+        "question": "Gerakan senam ataupun gerakan bebas yang dibarengi dengan musik\natau nyanyian sesuai dengan irama yang mengikutinya. Pernyataan di atas\ndisebut dengan senam \\....",
+        "choices": [
+            {
+                "letter": "a",
+                "text": "kesegaran"
+            },
+            {
+                "letter": "b",
+                "text": "kebugaran"
+            },
+            {
+                "letter": "c",
+                "text": "lantai"
+            },
+            {
+                "letter": "d",
+                "text": "matras"
+            },
+            {
+                "letter": "e",
+                "text": "irama"
+            }
+        ],
+        "correct_answer": "e"
+    },
+    {
+        "number": 19,
+        "question": "Pernyataan senam irama dapat menjaga kesehatan tulang, menguatkan\notot, membakar kalori, mengoptimalkan fungsi otak, memperbaiki bentuk\nfisik, mengatasi stres, dan menyehatkan jantung. Hal di atas termasuk\ndari \\... senam.",
+        "choices": [
+            {
+                "letter": "a",
+                "text": "manfaat"
+            },
+            {
+                "letter": "b",
+                "text": "fungsi"
+            },
+            {
+                "letter": "c",
+                "text": "arti"
+            },
+            {
+                "letter": "d",
+                "text": "keluwesan"
+            },
+            {
+                "letter": "e",
+                "text": "keseimbangan"
+            }
+        ],
+        "correct_answer": "a"
+    },
+    {
+        "number": 20,
+        "question": "Perhatikan pernyataan berikut!\n\\(1\\) Delman Istimewa karya Simanjuntak.\n\\(2\\) Kampung Nan Jauh Dimato, lagu daerah Sumatra Barat.\n\\(3\\) Tinggi Gunung Seribu Janji oleh Ismail Marzuki.\n\\(4\\) Diwajahmu Kulihat Bulan karya Muchtar Embut.\n\\(5\\) Desaku dari Jawa.\nBerikut ini yang termasuk judul lagu yang berirama chacha adalah \\....",
+        "choices": [
+            {
+                "letter": "a",
+                "text": "(2), (3), dan (6)"
+            },
+            {
+                "letter": "b",
+                "text": "(1), (2), dan (4)"
+            },
+            {
+                "letter": "c",
+                "text": "(3), (4), dan (5)"
+            },
+            {
+                "letter": "d",
+                "text": "(2), (3), dan (4)"
+            },
+            {
+                "letter": "e",
+                "text": "(1), (4), dan (6)"
+            }
+        ],
+        "correct_answer": "d"
+    },
+    {
+        "number": 21,
+        "question": "Salah satu gerakan yang efektif untuk meningkatkan kebugaran yang\ndilakukan dengan menggunakan tali disebut \\....",
+        "choices": [
+            {
+                "letter": "a",
+                "text": "lompat tali"
+            },
+            {
+                "letter": "b",
+                "text": "lompat kangkang"
+            },
+            {
+                "letter": "c",
+                "text": "lompat jongkok"
+            },
+            {
+                "letter": "d",
+                "text": "senam irama"
+            },
+            {
+                "letter": "e",
+                "text": "senam ketangkasan"
+            }
+        ],
+        "correct_answer": "a"
+    },
+    {
+        "number": 22,
+        "question": "Skipping rope dapat dilakukan dengan gerakan yang bervariasi, salah\ncaranya adalah \\....",
+        "choices": [
+            {
+                "letter": "a",
+                "text": "memutar tali secara cepat"
+            },
+            {
+                "letter": "b",
+                "text": "memutar tali secara lambat"
+            },
+            {
+                "letter": "c",
+                "text": "menyilangkan kedua lengan bergantian"
+            },
+            {
+                "letter": "d",
+                "text": "melompat lebih tinggi"
+            },
+            {
+                "letter": "e",
+                "text": "melompat sambil jongkok"
+            }
+        ],
+        "correct_answer": "c"
+    },
+    {
+        "number": 23,
+        "question": "Lompat tali biasanya digunakan para atlet tinju untuk melatih \\....",
+        "choices": [
+            {
+                "letter": "a",
+                "text": "kekuatan pukulan"
+            },
+            {
+                "letter": "b",
+                "text": "kecepatan pukulan"
+            },
+            {
+                "letter": "c",
+                "text": "kekuatan tendangan"
+            },
+            {
+                "letter": "d",
+                "text": "kekuatan lompatan"
+            },
+            {
+                "letter": "e",
+                "text": "stamina"
+            }
+        ],
+        "correct_answer": "e"
+    },
+    {
+        "number": 24,
+        "question": "Lompat tali merupakan aktivitas yang menggunakan tali dengan kedua\nujung tali dipegang dengan kedua tangan kemudian diayunkan melewati\nkepala sambil melompatinya. Ada beberapa manfaat yang dapat diterima\noleh tubuh kita apabila rutin melakukan latihan lompat tali. Berikut ini\nyang merupakan manfaat melakukan lompat tali, kecuali \\....",
+        "choices": [
+            {
+                "letter": "a",
+                "text": "memperkuat otot betis, paha, dan bokong"
+            },
+            {
+                "letter": "b",
+                "text": "menaikan berat badan"
+            },
+            {
+                "letter": "c",
+                "text": "membangun kepadatan tulang"
+            },
+            {
+                "letter": "d",
+                "text": "meningkatkan koordinasi dan keseimbangan"
+            },
+            {
+                "letter": "e",
+                "text": "melindungi kinerja kardiovaskular"
+            }
+        ],
+        "correct_answer": "b"
+    },
+    {
+        "number": 25,
+        "question": "\\... dapat menguatkan berbagai otot tubuh, meningkatkan kepadatan\ntulang, melatih koordinasi tubuh, dan meningkatkan keseimbangan.",
+        "choices": [
+            {
+                "letter": "a",
+                "text": "joging"
+            },
+            {
+                "letter": "b",
+                "text": "lompat tali"
+            },
+            {
+                "letter": "c",
+                "text": "sepak bola"
+            },
+            {
+                "letter": "d",
+                "text": "renang"
+            },
+            {
+                "letter": "e",
+                "text": "catat"
+            }
+        ],
+        "correct_answer": "b"
+    },
+    {
+        "number": 26,
+        "question": "Double dutch merupakan lompat tali yang dilakukan secara\nberkelompok dengan menggunakan dua tali. Dalam lompat tali ini perlu\nmenggunakan minimal sebanyak \\....",
+        "choices": [
+            {
+                "letter": "a",
+                "text": "1 orang"
+            },
+            {
+                "letter": "b",
+                "text": "2 orang"
+            },
+            {
+                "letter": "c",
+                "text": "3 orang"
+            },
+            {
+                "letter": "d",
+                "text": "4 orang"
+            },
+            {
+                "letter": "e",
+                "text": "5 orang"
+            }
+        ],
+        "correct_answer": "c"
+    },
+    {
+        "number": 27,
+        "question": "Teknik lompat tali ini dilakukan dengan dua buah tali dan dapat\ndilakukan dengan dua cara yang berbeda, yaitu melompat dari luar dan\nmelompat dari dalam atau tengah tali. Teknik lompat tali ini disebut\n\\....",
+        "choices": [
+            {
+                "letter": "a",
+                "text": "skipping rope"
+            },
+            {
+                "letter": "b",
+                "text": "double dutch"
+            },
+            {
+                "letter": "c",
+                "text": "double under"
+            },
+            {
+                "letter": "d",
+                "text": "one leg jump"
+            },
+            {
+                "letter": "e",
+                "text": "cross over"
+            }
+        ],
+        "correct_answer": "b"
+    },
+    {
+        "number": 28,
+        "question": "Latihan lompat tali dapat mempertajam kemampuan sensorik mata. Oleh\nkarena itu, dapat melatih mempercepat proses pengolahan informasi yang\nberkaitan dengan indra \\....",
+        "choices": [
+            {
+                "letter": "a",
+                "text": "perasa"
+            },
+            {
+                "letter": "b",
+                "text": "peraba"
+            },
+            {
+                "letter": "c",
+                "text": "penglihatan"
+            },
+            {
+                "letter": "d",
+                "text": "pendengaran"
+            },
+            {
+                "letter": "e",
+                "text": "indra pengecap"
+            }
+        ],
+        "correct_answer": "c"
+    },
+    {
+        "number": 29,
+        "question": "Lompat tali yang dilakukan sendirian disebut skipping rope. Latihan\nskipping rope dapat dilakukan dengan berbagai variasi gerakan. Berikut\nini variasi gerakan skipping rope, kecuali \\....",
+        "choices": [
+            {
+                "letter": "a",
+                "text": "dilakukan dengan menyilangkan kedua lengan bergantian"
+            },
+            {
+                "letter": "b",
+                "text": "dilakukan dengan tali melintas dua kali pada satu lompatan"
+            },
+            {
+                "letter": "c",
+                "text": "dilakukan dengan satu kaki bergantian"
+            },
+            {
+                "letter": "d",
+                "text": "dilakukan dengan mendarat menggunakan dua kaki"
+            },
+            {
+                "letter": "e",
+                "text": "dilakukan dengan bantuan teman untuk memutar tali"
+            }
+        ],
+        "correct_answer": "e"
+    },
+    {
+        "number": 30,
+        "question": "Lompat tali dapat dilakukan dengan memutar tali sebanyak dua kali\ndalam satu putaran tali. Teknik lompat tali tersebut disebut \\....",
+        "choices": [
+            {
+                "letter": "a",
+                "text": "double under"
+            },
+            {
+                "letter": "b",
+                "text": "one leg jump"
+            },
+            {
+                "letter": "c",
+                "text": "cross over"
+            },
+            {
+                "letter": "d",
+                "text": "skipping rope"
+            },
+            {
+                "letter": "e",
+                "text": "reguler jump"
+            }
+        ],
+        "correct_answer": "a"
+    },
+    {
+        "number": 1,
+        "question": "Irama Mars mempunyai tanda birama \\....",
+        "choices": [
+            {
+                "letter": "a",
+                "text": "1/4"
+            },
+            {
+                "letter": "b",
+                "text": "2/4"
+            },
+            {
+                "letter": "c",
+                "text": "3/4"
+            },
+            {
+                "letter": "d",
+                "text": "4/4"
+            },
+            {
+                "letter": "e",
+                "text": "4/3"
+            }
+        ],
+        "correct_answer": "d"
+    },
+    {
+        "number": 2,
+        "question": "Langkah yang ditutup dengan hitungan keempat adalah \\....",
+        "choices": [
+            {
+                "letter": "a",
+                "text": "pola langkah 1"
+            },
+            {
+                "letter": "b",
+                "text": "pola langkah 2"
+            },
+            {
+                "letter": "c",
+                "text": "pola langkah 3"
+            },
+            {
+                "letter": "d",
+                "text": "pola langkah 4"
+            },
+            {
+                "letter": "e",
+                "text": "pola langkah 5"
+            }
+        ],
+        "correct_answer": "d"
+    },
+    {
+        "number": 3,
+        "question": "Pola langkah \\... adalah gerak langkah dengan tiga hitungan.",
+        "choices": [
+            {
+                "letter": "a",
+                "text": "3"
+            },
+            {
+                "letter": "b",
+                "text": "2"
+            },
+            {
+                "letter": "c",
+                "text": "1"
+            },
+            {
+                "letter": "d",
+                "text": "gabungan"
+            },
+            {
+                "letter": "e",
+                "text": "berseri"
+            }
+        ],
+        "correct_answer": "a"
+    },
+    {
+        "number": 5,
+        "question": "Lompat tali yang disebut double dutch menggunakan jumlah tali\nsebanyak \\....",
+        "choices": [
+            {
+                "letter": "a",
+                "text": "satu"
+            },
+            {
+                "letter": "b",
+                "text": "dua"
+            },
+            {
+                "letter": "c",
+                "text": "tiga"
+            },
+            {
+                "letter": "d",
+                "text": "empat"
+            },
+            {
+                "letter": "e",
+                "text": "lima"
+            }
+        ],
+        "correct_answer": "b"
+    }
+]

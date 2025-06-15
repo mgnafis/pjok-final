@@ -1,0 +1,90 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Exam Website</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+    <div class="container">
+        <header>
+            <h1>Exam Website</h1>
+            <div id="exam-info">
+                <span id="question-counter">Question 1 of 40</span>
+                <span id="timer">Time: 00:00</span>
+            </div>
+        </header>
+
+        <main>
+            <!-- Start Screen -->
+            <div id="start-screen" class="screen">
+                <h2>Welcome to the Exam</h2>
+                <p>This exam contains 40 randomly selected questions from a pool of 155 questions.</p>
+                <p>Instructions:</p>
+                <ul>
+                    <li>Select one answer for each question</li>
+                    <li>You can navigate between questions</li>
+                    <li>Click "Submit Exam" when you're done</li>
+                    <li>You will see your results and correct answers after submission</li>
+                </ul>
+                <button id="start-exam-btn" class="btn btn-primary">Start Exam</button>
+            </div>
+
+            <!-- Exam Screen -->
+            <div id="exam-screen" class="screen hidden">
+                <div class="question-container">
+                    <div class="question-header">
+                        <h3 id="question-text">Question will appear here</h3>
+                    </div>
+                    
+                    <div class="options-container" id="options-container">
+                        <!-- Options will be dynamically generated -->
+                    </div>
+                </div>
+
+                <div class="navigation">
+                    <button id="prev-btn" class="btn btn-secondary">Previous</button>
+                    <div class="question-numbers" id="question-numbers">
+                        <!-- Question numbers will be dynamically generated -->
+                    </div>
+                    <button id="next-btn" class="btn btn-secondary">Next</button>
+                </div>
+
+                <div class="exam-controls">
+                    <button id="submit-exam-btn" class="btn btn-danger">Submit Exam</button>
+                </div>
+            </div>
+
+            <!-- Results Screen -->
+            <div id="results-screen" class="screen hidden">
+                <h2>Exam Results</h2>
+                <div class="score-summary">
+                    <div class="score-circle">
+                        <span id="score-percentage">0%</span>
+                    </div>
+                    <div class="score-details">
+                        <p>Correct: <span id="correct-count">0</span></p>
+                        <p>Incorrect: <span id="incorrect-count">0</span></p>
+                        <p>Total: <span id="total-count">40</span></p>
+                    </div>
+                </div>
+
+                <div class="review-section">
+                    <h3>Review Your Answers</h3>
+                    <div id="review-container">
+                        <!-- Review items will be dynamically generated -->
+                    </div>
+                </div>
+
+                <div class="results-controls">
+                    <button id="restart-exam-btn" class="btn btn-primary">Take Exam Again</button>
+                </div>
+            </div>
+        </main>
+    </div>
+
+    <script src="script.js"></script>
+</body>
+</html>
+
